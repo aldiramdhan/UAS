@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Analisis Bantuan Sosial</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #111827; /* bg-gray-900 */
+        }
+        .chart-container {
+            background-color: #1f2937; /* bg-gray-800 */
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .kpi-card {
+            background-color: #1f2937; /* bg-gray-800 */
+            padding: 1.5rem;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+    </style>
+</head>
+<body class="text-gray-200">
+
+    <div class="container mx-auto p-4 md:p-8">
+        <!-- Header -->
+        <header class="mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-white">Dashboard Analisis Kerentanan Sosial Ekonomi</h1>
+            <p class="text-gray-400 mt-2">Visualisasi Data untuk Penentuan Kelayakan Penerima Bantuan Sosial</p>
+        </header>
+
+        <!-- KPI Cards -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            <div class="kpi-card">
+                <h3 class="text-gray-400 text-lg">Total Responden</h3>
+                <p id="total-responden" class="text-3xl font-bold text-white mt-2">0</p>
+            </div>
+            <div class="kpi-card">
+                <h3 class="text-gray-400 text-lg">Calon Penerima Bansos</h3>
+                <p id="total-penerima" class="text-3xl font-bold text-green-400 mt-2">0</p>
+            </div>
+            <div class="kpi-card">
+                <h3 class="text-gray-400 text-lg">Rata-rata Skor KSE</h3>
+                <p id="avg-kse" class="text-3xl font-bold text-white mt-2">0.0</p>
+            </div>
+            <div class="kpi-card">
+                <h3 class="text-gray-400 text-lg">Pengangguran Produktif</h3>
+                <p id="total-pengangguran" class="text-3xl font-bold text-yellow-400 mt-2">0</p>
+            </div>
+        </div>
+
+        <!-- Charts Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            <!-- Chart 1: Jumlah Penerima Bansos per Provinsi -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Jumlah Penerima Bansos per Provinsi (KSE > 3)</h3>
+                <canvas id="penerimaPerProvinsiChart"></canvas>
+            </div>
+
+            <!-- Chart 2: Urutan Penerima Bansos Tertinggi berdasarkan Skor KSE -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Peringkat Provinsi berdasarkan Total Skor KSE</h3>
+                <canvas id="peringkatProvinsiChart"></canvas>
+            </div>
+
+            <!-- Chart 3: Distribusi Penerima Bansos per Jenis Pekerjaan -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Distribusi Pekerjaan Penerima Bansos</h3>
+                <canvas id="distribusiPekerjaanChart"></canvas>
+            </div>
+
+            <!-- Chart 4: Urutan Jumlah Pengangguran Usia Produktif -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Jumlah Pengangguran Usia Produktif per Provinsi</h3>
+                <canvas id="pengangguranProduktifChart"></canvas>
+            </div>
+            
+            <!-- Chart 5 (Custom): Distribusi Skor KSE -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Distribusi Skor KSE Keseluruhan</h3>
+                <canvas id="distribusiKSEChart"></canvas>
+            </div>
+
+            <!-- Chart 6 (Custom): Komposisi Faktor Kerentanan -->
+            <div class="chart-container">
+                <h3 class="text-xl font-semibold mb-4 text-white">Komposisi Faktor Penyebab Kerentanan</h3>
+                <canvas id="komposisiKerentananChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Data CSV mentah disematkan di sini untuk kemudahan
+        const csvData = `id,nama,usia,provinsi,gaji,jumlah_keluarga,jumlah_balita,jumlah_lansia,disabilitas,anak_putus_sekolah,pekerjaan
+1,Adi,35,DKI Jakarta,2500000,5,2,0,Tidak,Tidak,Buruh
+2,Budi,42,Jawa Barat,4000000,4,1,1,Tidak,Tidak,Karyawan Swasta
+3,Cici,28,Jawa Tengah,1800000,6,3,0,Ya,Tidak,Ibu Rumah Tangga
+4,Dedi,55,Jawa Timur,5000000,3,0,1,Tidak,Tidak,PNS
+5,Eka,33,Banten,2800000,5,1,0,Tidak,Ya,Wiraswasta
+6,Fani,48,DI Yogyakarta,3200000,4,0,2,Tidak,Tidak,Pedagang
+7,Gani,25,DKI Jakarta,3500000,2,0,0,Tidak,Tidak,Karyawan Swasta
+8,Hadi,60,Jawa Barat,2000000,7,0,1,Ya,Ya,Tidak Bekerja
+9,Intan,39,Jawa Tengah,2900000,5,2,1,Tidak,Tidak,Buruh
+10,Joko,45,Jawa Timur,6000000,4,1,0,Tidak,Tidak,Manajer
+11,Kiki,22,Banten,1500000,3,1,0,Tidak,Tidak,Mahasiswa
+12,Lina,51,DI Yogyakarta,2200000,6,0,2,Ya,Tidak,Penjahit
+13,Mira,36,DKI Jakarta,2900000,5,2,0,Tidak,Ya,Ibu Rumah Tangga
+14,Nana,41,Jawa Barat,4500000,4,1,1,Tidak,Tidak,Wiraswasta
+15,Opik,29,Jawa Tengah,2100000,6,3,0,Tidak,Tidak,Buruh
+16,Putri,58,Jawa Timur,3000000,2,0,1,Ya,Tidak,Pensiunan
+17,Qori,31,Banten,2700000,5,1,0,Tidak,Tidak,Karyawan Swasta
+18,Rian,49,DI Yogyakarta,3500000,4,0,2,Tidak,Ya,Pedagang
+19,Sari,26,DKI Jakarta,4000000,2,1,0,Tidak,Tidak,Analis Data
+20,Tono,62,Jawa Barat,1800000,7,0,1,Ya,Ya,Tidak Bekerja`;
+
+        // --- FUNGSI UTAMA ---
+        document.addEventListener('DOMContentLoaded', () => {
+            // 1. Parse and Clean Data
+            const parsedData = parseCSV(csvData);
+            
+            // 2. Calculate KSE Score for each person
+            const dataWithKSE = calculateAllKSE(parsedData);
+            
+            // 3. Update KPI Cards
+            updateKPIs(dataWithKSE);
+            
+            // 4. Render all charts
+            renderCharts(dataWithKSE);
+        });
+
+        // --- FUNGSI PEMBANTU ---
+
+        /**
+         * Mengubah string CSV menjadi array of objects.
+         * @param {string} csvText - String data CSV.
+         * @returns {Array<Object>}
+         */
+        function parseCSV(csvText) {
+            const lines = csvText.trim().split('\n');
+            const headers = lines[0].split(',');
+            const data = lines.slice(1).map(line => {
+                const values = line.split(',');
+                const entry = {};
+                headers.forEach((header, i) => {
+                    let value = values[i];
+                    // Konversi ke tipe data yang sesuai
+                    if (!isNaN(value) && value.trim() !== '') {
+                        entry[header] = Number(value);
+                    } else {
+                        entry[header] = value;
+                    }
+                });
+                return entry;
+            });
+            return data;
+        }
+
+        /**
+         * Menghitung Skor Kerentanan Sosial Ekonomi (KSE) untuk semua data.
+         * @param {Array<Object>} data - Array data responden.
+         * @returns {Array<Object>} Data dengan tambahan kolom skor_kse dan penerima_bansos.
+         */
+        function calculateAllKSE(data) {
+            const UMR = 3000000;
+            return data.map(d => {
+                let score = 0;
+                let factors = { p1: 0, p2: 0, p3: 0, p4: 0, p5: 0, p6: 0 };
+
+                // P1: pendapatan kurang dr UMR
+                if (d.gaji < UMR) { score++; factors.p1 = 1; }
+                // P2: Jumlah anggota keluarga > 4
+                if (d.jumlah_keluarga > 4) { score++; factors.p2 = 1; }
+                // P3: ada balita > 1
+                if (d.jumlah_balita > 1) { score++; factors.p3 = 1; }
+                // P4: ada lansia > 1
+                if (d.jumlah_lansia > 1) { score++; factors.p4 = 1; }
+                // P5: ada anggota disabilitas
+                if (d.disabilitas.toLowerCase() === 'ya') { score++; factors.p5 = 1; }
+                // P6: ada anak putus sekolah
+                if (d.anak_putus_sekolah.toLowerCase() === 'ya') { score++; factors.p6 = 1; }
+                
+                d.skor_kse = score;
+                d.penerima_bansos = score > 3;
+                d.factors = factors;
+                return d;
+            });
+        }
+
+        /**
+         * Memperbarui kartu KPI di bagian atas dashboard.
+         * @param {Array<Object>} data - Data yang sudah diolah.
+         */
+        function updateKPIs(data) {
+            const totalResponden = data.length;
+            const totalPenerima = data.filter(d => d.penerima_bansos).length;
+            const totalKSE = data.reduce((sum, d) => sum + d.skor_kse, 0);
+            const avgKSE = (totalKSE / totalResponden).toFixed(1);
+            const totalPengangguran = data.filter(d => d.pekerjaan === 'Tidak Bekerja' && d.usia >= 18 && d.usia <= 60).length;
+
+            document.getElementById('total-responden').textContent = totalResponden;
+            document.getElementById('total-penerima').textContent = totalPenerima;
+            document.getElementById('avg-kse').textContent = avgKSE;
+            document.getElementById('total-pengangguran').textContent = totalPengangguran;
+        }
+        
+        /**
+         * Merender semua chart pada dashboard.
+         * @param {Array<Object>} data - Data yang sudah diolah.
+         */
+        function renderCharts(data) {
+            const chartColors = {
+                blue: 'rgba(59, 130, 246, 0.7)',
+                green: 'rgba(16, 185, 129, 0.7)',
+                yellow: 'rgba(234, 179, 8, 0.7)',
+                red: 'rgba(239, 68, 68, 0.7)',
+                purple: 'rgba(139, 92, 246, 0.7)',
+                teal: 'rgba(20, 184, 166, 0.7)',
+            };
+            
+            const borderColors = {
+                blue: 'rgba(59, 130, 246, 1)',
+                green: 'rgba(16, 185, 129, 1)',
+                yellow: 'rgba(234, 179, 8, 1)',
+                red: 'rgba(239, 68, 68, 1)',
+                purple: 'rgba(139, 92, 246, 1)',
+                teal: 'rgba(20, 184, 166, 1)',
+            }
+            
+            const colorPalette = Object.values(chartColors);
+            const borderPalette = Object.values(borderColors);
+
+            // Chart 1: Jumlah Penerima Bansos per Provinsi
+            const penerimaPerProvinsi = data.filter(d => d.penerima_bansos)
+                .reduce((acc, curr) => {
+                    acc[curr.provinsi] = (acc[curr.provinsi] || 0) + 1;
+                    return acc;
+                }, {});
+            new Chart(document.getElementById('penerimaPerProvinsiChart'), {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(penerimaPerProvinsi),
+                    datasets: [{
+                        label: 'Jumlah Penerima',
+                        data: Object.values(penerimaPerProvinsi),
+                        backgroundColor: chartColors.blue,
+                        borderColor: borderColors.blue,
+                        borderWidth: 1
+                    }]
+                },
+                options: { scales: { y: { beginAtZero: true, ticks: { color: '#d1d5db' } }, x: { ticks: { color: '#d1d5db' } } }, plugins: { legend: { labels: { color: '#d1d5db' } } } }
+            });
+
+            // Chart 2: Peringkat Provinsi berdasarkan Total Skor KSE
+            const skorPerProvinsi = data.reduce((acc, curr) => {
+                acc[curr.provinsi] = (acc[curr.provinsi] || 0) + curr.skor_kse;
+                return acc;
+            }, {});
+            const sortedSkorProvinsi = Object.entries(skorPerProvinsi).sort(([,a],[,b]) => b-a);
+            new Chart(document.getElementById('peringkatProvinsiChart'), {
+                type: 'bar',
+                data: {
+                    labels: sortedSkorProvinsi.map(item => item[0]),
+                    datasets: [{
+                        label: 'Total Skor KSE',
+                        data: sortedSkorProvinsi.map(item => item[1]),
+                        backgroundColor: chartColors.green,
+                        borderColor: borderColors.green,
+                        borderWidth: 1
+                    }]
+                },
+                options: { indexAxis: 'y', scales: { y: { ticks: { color: '#d1d5db' } }, x: { ticks: { color: '#d1d5db' } } }, plugins: { legend: { labels: { color: '#d1d5db' } } } }
+            });
+
+            // Chart 3: Distribusi Pekerjaan Penerima Bansos
+            const pekerjaanPenerima = data.filter(d => d.penerima_bansos)
+                .reduce((acc, curr) => {
+                    acc[curr.pekerjaan] = (acc[curr.pekerjaan] || 0) + 1;
+                    return acc;
+                }, {});
+            new Chart(document.getElementById('distribusiPekerjaanChart'), {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(pekerjaanPenerima),
+                    datasets: [{
+                        data: Object.values(pekerjaanPenerima),
+                        backgroundColor: colorPalette,
+                        borderColor: borderPalette,
+                        borderWidth: 1
+                    }]
+                },
+                options: { responsive: true, plugins: { legend: { position: 'top', labels: { color: '#d1d5db' } } } }
+            });
+
+            // Chart 4: Jumlah Pengangguran Usia Produktif per Provinsi
+            const pengangguranProduktif = data.filter(d => d.pekerjaan === 'Tidak Bekerja' && d.usia >= 18 && d.usia <= 60)
+                .reduce((acc, curr) => {
+                    acc[curr.provinsi] = (acc[curr.provinsi] || 0) + 1;
+                    return acc;
+                }, {});
+            new Chart(document.getElementById('pengangguranProduktifChart'), {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(pengangguranProduktif),
+                    datasets: [{
+                        label: 'Jumlah Pengangguran Produktif',
+                        data: Object.values(pengangguranProduktif),
+                        backgroundColor: chartColors.yellow,
+                        borderColor: borderColors.yellow,
+                        borderWidth: 1
+                    }]
+                },
+                options: { scales: { y: { beginAtZero: true, ticks: { color: '#d1d5db' } }, x: { ticks: { color: '#d1d5db' } } }, plugins: { legend: { labels: { color: '#d1d5db' } } } }
+            });
+            
+            // Chart 5 (Custom): Distribusi Skor KSE
+            const skorDistribusi = data.reduce((acc, curr) => {
+                acc[curr.skor_kse] = (acc[curr.skor_kse] || 0) + 1;
+                return acc;
+            }, {});
+             new Chart(document.getElementById('distribusiKSEChart'), {
+                type: 'line',
+                data: {
+                    labels: Object.keys(skorDistribusi).sort((a,b) => a-b),
+                    datasets: [{
+                        label: 'Jumlah Responden',
+                        data: Object.values(skorDistribusi).sort((a,b) => a-b),
+                        backgroundColor: chartColors.purple,
+                        borderColor: borderColors.purple,
+                        borderWidth: 2,
+                        fill: true,
+                        tension: 0.1
+                    }]
+                },
+                options: { scales: { y: { beginAtZero: true, ticks: { color: '#d1d5db' } }, x: { title: { display: true, text: 'Skor KSE', color: '#d1d5db' }, ticks: { color: '#d1d5db' } } }, plugins: { legend: { labels: { color: '#d1d5db' } } } }
+            });
+
+            // Chart 6 (Custom): Komposisi Faktor Kerentanan
+            const faktorKerentanan = data.filter(d => d.penerima_bansos)
+                .reduce((acc, curr) => {
+                    if (curr.factors.p1) acc.Pendapatan++;
+                    if (curr.factors.p2) acc.Keluarga++;
+                    if (curr.factors.p3) acc.Balita++;
+                    if (curr.factors.p4) acc.Lansia++;
+                    if (curr.factors.p5) acc.Disabilitas++;
+                    if (curr.factors.p6) acc.Pendidikan++;
+                    return acc;
+                }, { Pendapatan: 0, Keluarga: 0, Balita: 0, Lansia: 0, Disabilitas: 0, Pendidikan: 0 });
+            new Chart(document.getElementById('komposisiKerentananChart'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Pendapatan < UMR', 'Keluarga > 4', 'Balita > 1', 'Lansia > 1', 'Disabilitas', 'Anak Putus Sekolah'],
+                    datasets: [{
+                        data: Object.values(faktorKerentanan),
+                        backgroundColor: colorPalette,
+                        borderColor: borderPalette,
+                        borderWidth: 1
+                    }]
+                },
+                options: { responsive: true, plugins: { legend: { position: 'top', labels: { color: '#d1d5db' } } } }
+            });
+        }
+
+    </script>
+</body>
+</html>

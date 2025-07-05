@@ -1,0 +1,484 @@
+Nama_KK,NIK,Domisili,Tanggal_Lahir,Pekerjaan,Pendapatan,Jumlah_Anggota_Keluarga,Jumlah_Ibu_Hamil,Jumlah_Balita,Jumlah_Lansia,Jumlah_Anak_Putus_Sekolah,Jumlah_Anggota_Disabilitas,Pendapatan_Numerik,Umur,KSE,KSE_Score,KSE_Details,P1_Flag,P2_Flag,P3_Flag,P4_Flag,P5_Flag,P6_Flag
+Mana Wayudin,3200506431157410,Semarang,21/11/1974,Buruh,Rp 1.000.000,7,0,2,2,2,0,1000000,50,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Ozy Usada,3200350801577370,Padang,25/03/1993,Buruh,Rp 2.000.000,5,0,2,0,1,1,2000000,32,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Kenzie Ardianto,3200663704259220,Manado,09/10/1991,Petani,Rp 500.000,5,1,1,2,0,1,500000,33,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Balamantri Nurdiyanti,3200201606425940,Medan,21/01/1969,Petani,Rp 2.000.000,7,0,3,1,2,1,2000000,56,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Xanana Saefulla,3200651988276490,Lampung,26/09/1971,Wiraswasta,Rp 1.000.000,6,0,1,2,2,0,1000000,53,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Ica Nababan,3200918811608090,Semarang,11/02/1985,Karyawan,Rp 500.000,3,0,0,2,1,0,500000,40,"P1,P2,P4,P6",4,"Score: 4/6 - P1,P2,P4,P6",1,1,0,1,0,1
+Kariman Puspasari,3200867299084200,Merauke,05/11/1968,Wiraswasta,Rp 1.000.000,3,1,0,0,1,0,1000000,56,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Yance Simbolon,3200326079505170,Manokwari,07/06/1977,Wiraswasta,Rp 2.000.000,7,1,1,1,1,2,2000000,48,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Nyana Mustofa,3200381497381750,Padang,01/07/2000,Petani,Rp 2.000.000,3,1,0,1,1,0,2000000,25,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Calista Siombing,3200703094591120,Malang,30/08/1971,Tidak Bekerja,Rp 0,4,0,1,0,1,1,0,53,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Rati Saragi,3200568281114690,Malang,02/09/1956,Karyawan,Rp 2.000.000,8,1,2,2,1,1,2000000,68,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Nrima Uyaina,3200744581976920,Depok,24/05/1980,Tidak Bekerja,Rp 0,5,0,0,1,2,2,0,45,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Nilam Simanjuntak,3200835690918060,Bengkulu,26/06/1992,Buruh,Rp 1.500.000,3,0,1,1,0,0,1500000,33,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Saadat Suartini,3200552632886030,Bogor,20/01/1975,Wiraswasta,Rp 1.500.000,2,0,0,0,2,0,1500000,50,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Nilam Tamrin,3200075269036660,Merauke,14/07/1976,Buruh,Rp 500.000,5,1,3,0,0,1,500000,48,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Kartika Utama,3200058341532950,Padang,10/12/1955,Buruh,Rp 500.000,4,0,0,2,1,1,500000,69,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Kjayeng Ramawati,3200205243697790,Sorong,22/08/1973,Petani,Rp 2.000.000,4,1,2,0,0,1,2000000,51,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Bambang Pratama,3200237575419220,Pekanbaru,13/09/1997,Petani,Rp 500.000,7,1,2,2,1,1,500000,27,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Ina Prakasa,3200121783027790,Depok,18/05/1981,Wiraswasta,Rp 2.000.000,5,0,1,0,2,2,2000000,44,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Kania Agustina,3200142017816730,Depok,13/03/1957,Buruh,Rp 1.500.000,6,0,2,2,1,1,1500000,68,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Bagas Sudiati,3200950761074760,Lampung,22/12/1974,Karyawan,Rp 1.500.000,8,1,2,0,2,2,1500000,50,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Alika Nurdiyanti,3200269965474000,Bogor,17/04/1986,Wiraswasta,Rp 1.500.000,7,0,0,2,2,2,1500000,39,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Saiful Zulkarnain,3200502796320180,Pontianak,08/10/1986,Petani,Rp 2.000.000,7,1,1,2,0,2,2000000,38,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Eru Nurdiyanti,3200255208142300,Manokwari,16/05/1956,Karyawan,Rp 2.000.000,5,0,1,1,1,2,2000000,69,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Emong Yolanda,3200616419224810,Lampung,25/06/1956,Buruh,Rp 1.500.000,7,1,3,1,1,1,1500000,69,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Asmadi Idayat,3200836741578120,Manokwari,04/03/1970,Tidak Bekerja,Rp 0,6,1,2,1,2,0,0,55,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Ana Wijaya,3200496159975430,Gorontalo,14/06/1979,Karyawan,Rp 1.500.000,8,1,1,1,2,2,1500000,46,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Aisya Widiastuti,3200554938092170,Malang,08/08/1967,Tidak Bekerja,Rp 0,3,1,0,1,0,0,0,57,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Rwani Dabukke.,3200656604053440,Balikpapan,05/10/1995,Petani,Rp 2.000.000,3,0,1,2,0,0,2000000,29,"P1,P2,P4",3,"Score: 3/6 - P1,P2,P4",1,1,0,1,0,0
+Warta Sirait,3200253958994370,Banjarmasin,05/05/1997,Karyawan,Rp 2.000.000,9,0,3,2,2,2,2000000,28,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Nadine Agustina,3200544320779410,Semarang,07/07/1995,Wiraswasta,Rp 500.000,1,0,0,1,0,0,500000,29,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Ani Aryanti,3200997904086320,Palembang,17/07/1965,Tidak Bekerja,Rp 0,5,1,1,1,2,0,0,59,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Timbul Lailasari,3200067453051590,Pontianak,16/09/1998,Tidak Bekerja,Rp 0,6,0,3,2,0,1,0,26,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Tgkbalapati Zulaika,3200877894543080,Palu,12/01/1994,Tidak Bekerja,Rp 0,5,0,3,2,0,0,0,31,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Fitria Suwarno,3200019416155290,Bandung,18/07/1994,Buruh,Rp 500.000,5,0,0,2,2,0,500000,30,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Kamila Prasetya,3200220997567220,Depok,10/11/1975,Petani,Rp 500.000,4,1,1,0,0,2,500000,49,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Rangga Saefulla,3200867945419780,Pontianak,19/10/1990,Buruh,Rp 2.000.000,6,0,3,1,1,1,2000000,34,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Rlatika Widiastuti,3200295234173500,Semarang,28/04/1957,Buruh,Rp 1.000.000,3,0,2,1,0,0,1000000,68,"P1,P2,P3",3,"Score: 3/6 - P1,P2,P3",1,1,1,0,0,0
+Sabri Ramawati,3200901312221380,Manokwari,15/02/1993,Buruh,Rp 1.500.000,4,0,0,1,0,2,1500000,32,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Tgkwisnu Pudjiastuti.,3200451788016290,Gorontalo,24/04/1978,Wiraswasta,Rp 1.000.000,4,1,1,1,0,0,1000000,47,P1,1,Score: 1/6 - P1,1,0,0,0,0,0
+Lanang Kusumo,3200542445192850,Balikpapan,23/05/1961,Petani,Rp 1.500.000,5,0,1,2,2,0,1500000,64,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Zamira Rajata,3200288646192550,Banjarmasin,06/12/1965,Tidak Bekerja,Rp 0,5,1,0,0,2,1,0,59,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Vino Pangestu,3200589357447990,Pekanbaru,01/03/1991,Tidak Bekerja,Rp 0,3,1,0,0,2,0,0,34,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Martani Farida,3200266586482850,Bengkulu,27/03/1962,Tidak Bekerja,Rp 0,7,1,3,0,0,2,0,63,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Rudi Laksita,3200441534857040,Makassar,23/04/1989,Wiraswasta,Rp 1.500.000,4,0,1,0,1,1,1500000,36,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Vicky Simanjuntak,3200414074048480,Sorong,06/05/1961,Buruh,Rp 500.000,4,0,0,0,1,2,500000,64,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Mala Zulaika,3200198684945070,Malang,02/05/1965,Petani,Rp 1.000.000,7,1,2,1,2,1,1000000,60,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Oliva Anggriawan,3200754797345740,Depok,09/08/1960,Wiraswasta,Rp 1.500.000,6,1,1,0,2,1,1500000,64,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Bagiya Novitasari,3200789306152720,Pontianak,30/07/1975,Tidak Bekerja,Rp 0,6,1,3,2,0,0,0,49,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Julia Manullang,3200425768918090,Medan,28/06/1975,Tidak Bekerja,Rp 0,6,1,0,2,0,2,0,50,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Samia Sinaga.,3200392334921830,Bekasi,19/12/1991,Tidak Bekerja,Rp 0,3,0,0,0,1,2,0,33,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Banara Kurniawan,3200731030255300,Bengkulu,14/04/1993,Buruh,Rp 1.000.000,7,0,3,2,2,0,1000000,32,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Gilda Prastuti,3200912428767820,Balikpapan,14/12/1987,Buruh,Rp 1.500.000,5,0,2,1,1,1,1500000,37,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Legawa Nasyida,3200790647915140,Kendari,12/10/1983,Karyawan,Rp 1.000.000,3,0,0,1,0,2,1000000,41,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Aditya Mustofa,3200983079485010,Depok,19/12/1974,Karyawan,Rp 2.000.000,4,1,0,2,1,0,2000000,50,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Ikin Saptono,3200833655750310,Pekanbaru,26/07/1974,Karyawan,Rp 2.000.000,6,0,3,0,0,2,2000000,50,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Gading Fujiati,3200455841289880,Jambi,18/05/1994,Buruh,Rp 1.500.000,7,1,1,1,2,2,1500000,31,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Ayu Prasetyo,3200761047794050,Malang,22/09/1965,Tidak Bekerja,Rp 0,8,0,3,2,2,0,0,59,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Zara Akim,3200147063897600,Samarinda,12/02/1964,Karyawan,Rp 1.500.000,5,1,1,2,1,0,1500000,61,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Laras Akim,3200608599911780,Padang,06/06/1998,Tidak Bekerja,Rp 0,5,0,3,0,1,0,0,27,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Arsanto Situmorang,3200323820676480,Sorong,03/11/1994,Petani,Rp 2.000.000,3,0,2,0,1,0,2000000,30,"P1,P2,P3,P6",4,"Score: 4/6 - P1,P2,P3,P6",1,1,1,0,0,1
+Puti Elisa Narpati,3200168705171870,Samarinda,22/04/1995,Petani,Rp 1.200.000,7,1,1,2,1,2,1200000,30,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Sakura Yuliarti,3200448961630130,Bengkulu,13/04/1970,Tidak Bekerja,Rp 0,4,0,0,1,2,1,0,55,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Galu Agustina,3200335126594390,Manado,24/03/1961,Karyawan,Rp 2.000.000,6,0,2,2,0,1,2000000,64,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Zulfa Assana,3200104555616740,Medan,08/10/1994,Wiraswasta,Rp 2.000.000,7,0,2,0,2,2,2000000,30,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Paiman Wibisono,3200182157993800,Manado,08/02/1968,Wiraswasta,Rp 1.000.000,5,0,2,0,2,1,1000000,57,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Wira Prakasa,3200066777893610,Merauke,09/10/1991,Buruh,Rp 500.000,6,1,0,1,2,1,500000,33,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Cakrawala Winarno,3200745096107630,Pontianak,04/05/1959,Buruh,Rp 1.000.000,7,0,2,1,1,2,1000000,66,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Wisnu Samosir,3200045612692040,Semarang,12/02/1965,Karyawan,Rp 1.000.000,7,0,3,2,0,1,1000000,60,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Lalita Irawan,3200835837929520,Samarinda,25/07/1967,Buruh,Rp 1.500.000,6,0,0,2,1,2,1500000,57,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Olivia Marbun,3200134159118750,Medan,06/12/1990,Tidak Bekerja,Rp 0,5,1,0,1,2,1,0,34,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Lamar Dongoran,3200793380079840,Bogor,30/11/1958,Petani,Rp 2.000.000,6,1,3,0,0,1,2000000,66,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Amelia Andriani,3200336188571970,Palangka Raya,13/09/1964,Wiraswasta,Rp 1.000.000,6,1,2,0,0,2,1000000,60,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Mulya Agustina,3200510560183900,Merauke,16/03/1978,Buruh,Rp 1.500.000,5,1,0,0,2,2,1500000,47,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Puti Sadina Budiyanto,3200949374346460,Padang,23/05/1976,Buruh,Rp 1.000.000,5,1,1,1,2,0,1000000,49,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Tina Firmansya,3200441765690170,Semarang,18/06/1957,Petani,Rp 2.000.000,6,1,3,0,1,0,2000000,68,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Cut Amalia Pangestu,3200003130018790,Sorong,12/04/2000,Wiraswasta,Rp 1.200.000,6,1,2,1,0,2,1200000,25,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Cut Kamila Sitorus,3200350779476010,Manokwari,25/03/1965,Buruh,Rp 1.000.000,7,0,2,2,2,0,1000000,60,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Padmi Purnawati,3200442919759290,Semarang,10/11/1963,Tidak Bekerja,Rp 0,5,1,1,0,2,0,0,61,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Puti Ella Pratiwi,3200241046721390,Palangka Raya,30/05/1960,Karyawan,Rp 1.200.000,4,1,0,1,1,1,1200000,65,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Yance Zulaika,3200594820670990,Jayapura,05/06/1984,Tidak Bekerja,Rp 0,2,0,1,0,0,1,0,41,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Elu Lestari,3200381509462120,Yogyakarta,13/09/1978,Karyawan,Rp 2.000.000,6,1,0,2,2,0,2000000,46,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Tgkprasetya Prabowo,3200756580860640,Banjarmasin,11/04/1992,Buruh,Rp 1.500.000,7,1,2,2,2,0,1500000,33,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Kardi Prasasta,3200185170183890,Padang,07/01/1976,Wiraswasta,Rp 1.500.000,10,1,3,2,1,2,1500000,49,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Jasmani Sitompul,3200065206629950,Gorontalo,17/11/1974,Tidak Bekerja,Rp 0,5,0,3,2,0,0,0,50,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Marwata Waluyo,3200075774082200,Manokwari,16/12/1969,Petani,Rp 500.000,4,0,2,1,0,0,500000,55,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Artawan Tarioran,3200532301207650,Pekanbaru,19/04/1968,Petani,Rp 1.200.000,7,1,2,2,2,0,1200000,57,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Azalea Yolanda,3200003097189690,Gorontalo,22/03/1961,Buruh,Rp 2.600.000,4,1,0,0,0,2,2600000,64,P5,1,Score: 1/6 - P5,0,0,0,0,1,0
+Esti Simbolon,3200685682776920,Bekasi,19/12/1983,Karyawan,Rp 1.000.000,4,1,1,0,0,1,1000000,41,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Setya Idayanto,3200285487350680,Malang,04/04/1991,Petani,Rp 1.000.000,7,1,3,1,0,1,1000000,34,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Titi Kurniawan,3200030544161120,Semarang,02/02/1967,Karyawan,Rp 1.000.000,4,0,1,1,0,1,1000000,58,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Maya Budiyanto,3200284780467730,Palembang,29/04/1983,Petani,Rp 500.000,7,1,2,1,2,0,500000,42,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Jane Jailani,3200766730459350,Bekasi,25/07/1962,Karyawan,Rp 1.500.000,4,0,1,2,0,0,1500000,62,"P1,P4",2,"Score: 2/6 - P1,P4",1,0,0,1,0,0
+Endra Mansur,3200895101120610,Balikpapan,05/05/1964,Tidak Bekerja,Rp 0,6,1,2,0,2,1,0,61,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Mana Siregar,3200577996793230,Palangka Raya,04/05/1972,Wiraswasta,Rp 2.000.000,5,1,1,2,0,1,2000000,53,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Rcaraka Tamrin,3200756769904960,Surabaya,11/09/1999,Karyawan,Rp 2.000.000,6,1,1,1,1,1,2000000,25,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Purwanto Waskita,3200502895226480,Surabaya,10/10/1998,Tidak Bekerja,Rp 0,5,1,0,1,2,1,0,26,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Agus Siregar,3200675397707610,Kendari,27/07/1974,Wiraswasta,Rp 1.500.000,4,0,2,0,0,2,1500000,50,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Almira Artati,3200094482350270,Yogyakarta,09/09/1966,Petani,Rp 1.000.000,6,1,2,1,0,2,1000000,58,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Nilam Suartini,3200657425511080,Makassar,13/08/1965,Petani,Rp 1.000.000,3,0,1,0,2,0,1000000,59,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Marsudi Kuswandari,3200621382435890,Bekasi,19/01/1989,Tidak Bekerja,Rp 0,8,0,2,2,2,2,0,36,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Luwar Gunarto,3200733358814690,Pontianak,15/10/1987,Petani,Rp 1.000.000,7,0,2,2,1,2,1000000,37,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Maria Nasyida,3200327092123380,Yogyakarta,14/02/2000,Petani,Rp 2.100.000,4,1,0,2,1,0,2100000,25,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Gasti Prakasa,3200595327540620,Manokwari,18/03/1984,Tidak Bekerja,Rp 0,5,0,2,2,0,1,0,41,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Krosman Wijaya,3200065053784190,Manado,23/08/1987,Karyawan,Rp 500.000,6,1,2,0,2,0,500000,37,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Okto Uyaina,3200927543452010,Pontianak,20/04/1988,Wiraswasta,Rp 500.000,9,1,3,2,0,2,500000,37,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Jabal Manullang,3200482302477460,Semarang,29/03/1971,Petani,Rp 500.000,8,1,2,2,2,0,500000,54,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Talia Maulana,3200452616475420,Bekasi,14/01/1957,Karyawan,Rp 2.000.000,9,1,1,2,2,2,2000000,68,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Bagas Usada,3200374556753470,Pontianak,28/04/1966,Tidak Bekerja,Rp 0,4,1,1,2,0,0,0,59,"P1,P4",2,"Score: 2/6 - P1,P4",1,0,0,1,0,0
+Eka Prakasa,3200215666068270,Makassar,28/12/1981,Wiraswasta,Rp 500.000,4,1,0,1,1,0,500000,43,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Garda Prasetyo,3200158750624660,Palangka Raya,25/02/1978,Tidak Bekerja,Rp 0,5,1,2,0,0,2,0,47,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Qori Sirait,3200308276424320,Banjarmasin,27/04/1977,Petani,Rp 500.000,6,1,2,2,0,0,500000,48,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Tirta Prasetyo,3200101517522120,Semarang,25/08/1977,Karyawan,Rp 1.500.000,4,0,2,1,0,1,1500000,47,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Wawan Budiman,3200861866063890,Kendari,19/03/1986,Karyawan,Rp 500.000,6,0,1,2,0,2,500000,39,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Ajiono Namaga,3200361833602060,Padang,06/11/1997,Petani,Rp 500.000,7,1,1,2,1,1,500000,27,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Aisya Marpaung,3200545766455620,Merauke,03/11/1974,Buruh,Rp 500.000,5,0,1,2,2,0,500000,50,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Damu Ramawati,3200945152794080,Bogor,26/03/1957,Buruh,Rp 2.800.000,6,1,3,1,1,0,2800000,68,"P3,P6",2,"Score: 2/6 - P3,P6",0,0,1,0,0,1
+Azalea Winarno,3200448636857580,Semarang,07/12/1957,Petani,Rp 1.500.000,7,1,1,1,2,1,1500000,67,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Puji Namaga,3200174363499330,Pekanbaru,17/04/1995,Wiraswasta,Rp 2.000.000,4,0,3,0,0,1,2000000,30,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Purwa Waskita,3200174173760930,Balikpapan,09/10/1987,Buruh,Rp 500.000,2,1,0,0,0,0,500000,37,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Titi Mardiya,3200461320656000,Palangka Raya,14/08/1974,Petani,Rp 2.000.000,7,1,3,2,0,1,2000000,50,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Jarwadi Usama,3200080519196340,Bandung,08/10/1971,Petani,Rp 1.500.000,5,1,0,2,1,1,1500000,53,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Ica Iswayudi,3200091094135720,Medan,19/02/1970,Buruh,Rp 1.000.000,6,1,1,1,2,1,1000000,55,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Victoria Winarsi,3200482962223970,Palembang,21/08/1985,Wiraswasta,Rp 500.000,5,0,2,0,0,2,500000,39,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Jaiman Kuswandari,3200707662018490,Jambi,13/02/1966,Petani,Rp 2.000.000,3,0,0,0,2,0,2000000,59,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Tania Puspita,3200533968407600,Merauke,30/03/1973,Tidak Bekerja,Rp 0,5,0,3,1,0,0,0,52,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Wisnu Firmansya,3200472317309060,Lampung,13/10/1984,Karyawan,Rp 1.200.000,8,0,3,2,1,1,1200000,40,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Dimaz Narpati,3200546949855990,Bengkulu,01/04/1999,Petani,Rp 439.000,3,0,1,1,0,0,439000,26,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Najwa Saefulla,3200448831520540,Malang,02/03/1955,Petani,Rp 1.500.000,5,1,0,0,2,1,1500000,70,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Alika Marpaung,3200091489579720,Samarinda,04/11/1958,Wiraswasta,Rp 500.000,6,0,3,0,0,2,500000,66,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Jarwa Aryanto,3200470128163000,Bekasi,08/02/1963,Karyawan,Rp 1.000.000,5,0,3,0,0,2,1000000,62,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Rkariman Alima,3200277727505030,Kendari,02/07/1993,Tidak Bekerja,Rp 0,4,0,0,2,0,1,0,32,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Treksa Wulandari,3200284987187260,Semarang,13/07/1973,Tidak Bekerja,Rp 0,5,0,2,0,1,1,0,51,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Umi Suryono,3200186571417150,Pontianak,01/05/1972,Petani,Rp 1.500.000,4,0,1,1,1,1,1500000,53,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Talia Tamba,3200917615656190,Jayapura,08/11/1966,Karyawan,Rp 2.000.000,3,0,0,1,0,1,2000000,58,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Enteng Saragi,3200962714087690,Manado,16/12/1986,Buruh,Rp 1.500.000,2,0,0,0,1,0,1500000,38,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Janet Lailasari,3200880842369690,Pekanbaru,14/07/1978,Wiraswasta,Rp 500.000,5,0,1,1,1,1,500000,46,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Sutan Bakiono Dongoran,3200082851413170,Makassar,23/01/1959,Karyawan,Rp 1.500.000,7,0,2,2,2,1,1500000,66,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Tantri Saefulla,3200493144256510,Pontianak,10/11/1987,Karyawan,Rp 2.000.000,1,1,0,0,0,0,2000000,37,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Setya Kuswandari,3200888309185590,Lampung,02/04/1995,Karyawan,Rp 1.500.000,6,0,1,0,2,2,1500000,30,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Karma Padmasari,3200826613866870,Medan,18/05/1960,Wiraswasta,Rp 1.500.000,6,0,2,0,1,2,1500000,65,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Lukita Situmorang,3200282491026930,Palangka Raya,30/03/1995,Petani,Rp 500.000,3,0,0,2,0,0,500000,30,"P1,P2,P4",3,"Score: 3/6 - P1,P2,P4",1,1,0,1,0,0
+Edi Wacana,3200496410429200,Medan,04/06/1979,Tidak Bekerja,Rp 0,6,1,3,0,0,1,0,46,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Silvia Megantara,3200296986519790,Palembang,05/08/1978,Petani,Rp 2.000.000,6,1,1,0,2,1,2000000,46,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Maimuna Wulandari,3200175604178240,Padang,30/08/1995,Tidak Bekerja,Rp 0,3,1,0,0,1,0,0,29,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Banawi Maulana,3200831442045250,Manokwari,12/06/1978,Buruh,Rp 2.000.000,4,1,2,0,0,1,2000000,47,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Cager Winarno,3200969698106590,Depok,09/06/1987,Wiraswasta,Rp 1.500.000,7,0,2,2,2,0,1500000,38,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Opung Andriani,3200476469903640,Semarang,03/01/1993,Petani,Rp 500.000,6,0,2,2,2,0,500000,32,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Gaiman Oktaviani,3200229359001850,Lampung,15/11/1991,Karyawan,Rp 1.500.000,5,1,1,1,1,1,1500000,33,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Unjani Gunawan,3200401683785080,Gorontalo,23/03/1980,Buruh,Rp 1.000.000,5,0,1,2,0,1,1000000,44,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Kempluk Siombing,3200034030599400,Bengkulu,11/09/1959,Karyawan,Rp 2.000.000,4,1,2,0,1,0,2000000,65,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Martana Dabukke,3200482194295000,Merauke,26/09/1977,Buruh,Rp 1.000.000,5,1,0,2,2,0,1000000,47,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Daru Nasiruddin,3200596316329490,Bengkulu,12/03/1963,Buruh,Rp 2.000.000,5,0,3,0,1,1,2000000,62,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Wira Nugroo,3200076636911440,Semarang,24/01/1980,Karyawan,Rp 500.000,7,0,2,2,2,0,500000,45,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Gabriella Astuti,3200682637782110,Yogyakarta,17/03/1977,Tidak Bekerja,Rp 0,11,1,3,2,2,2,0,48,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Gali Megantara,3200196527068630,Merauke,27/12/1980,Buruh,Rp 1.000.000,9,1,3,1,2,1,1000000,44,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Janet Zulkarnain,3200096303331090,Bengkulu,30/12/1980,Petani,Rp 1.500.000,8,1,0,2,2,2,1500000,44,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Jarwi Wastuti,3200554705705240,Bekasi,24/06/1959,Wiraswasta,Rp 1.500.000,2,0,0,0,2,0,1500000,66,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Genta Aryani,3200189360262380,Palangka Raya,06/07/1990,Wiraswasta,Rp 1.500.000,6,1,0,2,1,2,1500000,34,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Puti Tina Puspita,3200924653729460,Pekanbaru,19/04/1964,Karyawan,Rp 500.000,5,0,2,1,1,0,500000,61,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Restu Nuraini,3200007907086800,Palangka raya,27/07/1996,Karyawan,Rp 2.000.000,5,0,2,0,0,2,2000000,28,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Cayadi Winarsi,3200555102721760,Balikpapan,09/03/1969,Karyawan,Rp 500.000,8,0,2,2,1,2,500000,56,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Lukman Permata,3200570081745620,Merauke,03/09/2000,Petani,Rp 1.200.000,6,0,3,1,0,1,1200000,24,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Zulfa Firmansya,3200899272062570,Malang,07/06/1980,Wiraswasta,Rp 1.500.000,6,1,0,1,2,2,1500000,45,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Lidya Maryadi,3200871869141570,Sorong,06/07/1970,Buruh,Rp 1.000.000,7,0,3,2,1,1,1000000,54,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Dariati Maendra,3200931098865070,Samarinda,06/12/1987,Karyawan,Rp 1.500.000,5,0,3,0,0,2,1500000,37,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Ilda Waluyo,3200221095443710,Lampung,19/05/1984,Wiraswasta,Rp 2.000.000,3,0,2,0,0,0,2000000,41,"P1,P2,P3",3,"Score: 3/6 - P1,P2,P3",1,1,1,0,0,0
+Silvia Nainggolan,3200225700089520,Semarang,11/02/1989,Tidak Bekerja,Rp 0,6,0,3,1,1,0,0,36,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Jelita Utapea,3200196125337010,Pekanbaru,21/01/1999,Petani,Rp 2.000.000,8,0,3,1,2,2,2000000,26,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Belinda Wibisono.,3200846674461560,Gorontalo,10/10/1971,Karyawan,Rp 2.000.000,6,0,3,2,0,1,2000000,53,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Bagus Wibisono,3200722196564430,Palu,18/03/1970,Tidak Bekerja,Rp 0,6,1,0,2,0,2,0,55,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Galar Usada,3200426309108210,Jambi,01/06/1971,Petani,Rp 1.000.000,8,0,2,2,2,2,1000000,54,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Kemal Tarioran,3200880788218010,Palembang,15/08/1989,Petani,Rp 1.500.000,2,0,0,0,1,0,1500000,35,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Micelle Utapea,3200319973825540,Samarinda,09/12/1974,Karyawan,Rp 2.000.000,6,1,2,1,1,1,2000000,50,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Bala Firmansya,3200510187576350,Malang,09/08/1963,Petani,Rp 500.000,5,0,2,0,2,1,500000,61,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Kacung Irawan,3200116986658400,Jambi,22/02/1990,Karyawan,Rp 1.000.000,5,0,1,2,1,1,1000000,35,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Usyi Assana,3200329463303010,Makassar,19/06/1998,Petani,Rp 2.000.000,4,1,2,1,0,0,2000000,27,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Yuliana Nainggolan,3200028388531920,Palu,17/11/1984,Tidak Bekerja,Rp 0,4,0,1,1,2,0,0,40,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Maimuna Sitompul,3200612849286400,Pekanbaru,17/04/1979,Buruh,Rp 1.500.000,8,1,2,2,1,2,1500000,46,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Balijan Samosir,3200070705117200,Pontianak,16/09/1970,Karyawan,Rp 500.000,6,1,2,1,1,0,500000,54,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Aisya Irawan,3200590650088510,Depok,23/07/1983,Wiraswasta,Rp 1.000.000,2,0,1,0,0,1,1000000,41,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Anom Uwais,3200024247634470,Makassar,05/12/1991,Karyawan,Rp 500.000,6,0,2,1,1,1,500000,33,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Jane Ardianto,3200088718699860,Padang,21/03/1990,Karyawan,Rp 1.000.000,6,0,3,2,0,0,1000000,35,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Galar Mansur,3200472970625510,Pekanbaru,21/02/1979,Buruh,Rp 1.500.000,4,0,1,0,1,1,1500000,46,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Puput Rajasa,3200173472918680,Malang,28/04/1998,Wiraswasta,Rp 1.000.000,5,0,0,2,0,2,1000000,27,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Ana Laksmiwati,3200032204229500,Pontianak,05/06/1970,Petani,Rp 2.000.000,6,1,1,0,2,1,2000000,55,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Garda Simbolon,3200483277009130,Palu,02/04/1981,Buruh,Rp 1.000.000,4,0,2,2,0,0,1000000,44,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Zulaika Aryanto.,3200587637551430,Bogor,03/06/1973,Petani,Rp 1.000.000,5,0,0,2,0,2,1000000,52,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Luwar Yolanda.,3200539443782450,Lampung,16/06/1991,Karyawan,Rp 2.000.000,4,1,2,0,0,1,2000000,34,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Puti Gasti Sitorus,3200792805178610,Merauke,29/04/1982,Karyawan,Rp 1.500.000,5,1,0,1,2,0,1500000,43,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Baktiono Tamrin,3200006704917870,Jayapura,12/09/1969,Karyawan,Rp 2.000.000,6,1,3,0,0,1,2000000,55,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Kambali Mayasari,3200237104555230,Bekasi,11/08/1970,Karyawan,Rp 1.500.000,7,1,2,2,1,1,1500000,54,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Danu Winarno,3200773918368040,Bekasi,13/07/1979,Petani,Rp 2.000.000,4,1,0,0,2,1,2000000,45,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Tina Siombing,3200919202484560,Manado,17/11/1981,Tidak Bekerja,Rp 0,4,0,1,2,1,0,0,43,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Asirwada Kuswoyo,3200853451348900,Padang,16/10/1975,Tidak Bekerja,Rp 0,7,0,3,0,2,2,0,49,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Racel Setiawan,3200826512206020,Banjarmasin,23/01/1975,Petani,Rp 1.500.000,8,0,3,2,1,2,1500000,50,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Nurul Wibowo,3200561907132560,Semarang,15/08/1965,Tidak Bekerja,Rp 0,6,1,3,0,1,1,0,59,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Nadine Idayanto,3200289513127240,Manado,22/01/1988,Tidak Bekerja,Rp 0,7,1,3,2,1,0,0,37,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Tami Marpaung,3200426211477060,Malang,29/11/1991,Buruh,Rp 1.000.000,5,0,2,2,0,1,1000000,33,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Betania Widiastuti,3200427796917930,Banjarmasin,13/01/1992,Wiraswasta,Rp 1.500.000,5,0,0,2,0,2,1500000,33,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Sutan Danuja Nasiruddin,3200278610280940,Medan,27/04/1976,Tidak Bekerja,Rp 0,7,0,3,1,1,2,0,49,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Empluk Gunarto,3200119269104730,Palu,02/07/1990,Tidak Bekerja,Rp 0,4,1,2,0,1,0,0,35,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Tasdik Narpati,3200489152850090,Kendari,23/02/1979,Wiraswasta,Rp 1.500.000,3,0,0,1,1,1,1500000,46,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Vino Sitorus,3200419330892710,Malang,09/01/1987,Karyawan,Rp 1.000.000,7,1,2,0,2,1,1000000,38,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Jabal Marbun,3200017037246120,Manokwari,22/06/1997,Petani,Rp 1.500.000,5,1,0,2,1,0,1500000,28,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Jelita Mandasari,3200532804035390,Malang,15/06/1974,Karyawan,Rp 2.000.000,2,1,1,0,0,0,2000000,51,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Rati Tamrin,3200254380987220,Balikpapan,27/11/1955,Buruh,Rp 1.500.000,6,1,2,0,1,2,1500000,69,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Siska Winarsi,3200152147081270,Jayapura,16/11/1982,Wiraswasta,Rp 2.000.000,4,0,0,2,1,1,2000000,42,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Nova Kusumo.,3200549774594000,Balikpapan,24/07/1981,Petani,Rp 1.000.000,7,0,2,2,0,2,1000000,43,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Kajen Widodo,3200670472720520,Medan,03/09/1974,Karyawan,Rp 500.000,4,1,0,1,1,0,500000,50,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Teddy Firgantoro,3200174541933290,Jambi,26/02/1983,Tidak Bekerja,Rp 0,5,0,0,2,1,2,0,42,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Galar Puspasari,3200703580132720,Bengkulu,16/12/1997,Wiraswasta,Rp 2.000.000,6,0,3,1,0,2,2000000,27,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Rmila Budiman,3200361311719100,Bandung,17/02/1977,Wiraswasta,Rp 1.500.000,8,1,2,2,1,1,1500000,48,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Intan Simanjuntak,3200381045595980,Padang,29/11/1995,Karyawan,Rp 500.000,7,0,2,2,2,0,500000,29,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Agnes Yuniar,3200971029855010,Pontianak,18/07/1984,Tidak Bekerja,Rp 0,5,1,0,2,2,0,0,40,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Vera Marpaung,3200630986338190,Bogor,02/03/1987,Wiraswasta,Rp 1.000.000,6,1,0,0,2,2,1000000,38,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Zalindra Laksmiwati,3200260825716250,Samarinda,25/03/1970,Buruh,Rp 1.000.000,3,0,0,0,1,1,1000000,55,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Janet Salaudin,3200739762458910,Lampung,22/07/1956,Wiraswasta,Rp 1.500.000,8,0,2,1,2,2,1500000,68,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Limar Sinaga,3200694825518200,Jambi,16/01/1963,Karyawan,Rp 2.000.000,5,1,1,1,1,0,2000000,62,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Irfan Sudiati,3200379506262920,Palembang,19/09/1978,Wiraswasta,Rp 2.000.000,9,1,3,2,0,2,2000000,46,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Bakiman Idayat,3200478656445560,Pekanbaru,10/08/1988,Petani,Rp 2.000.000,7,1,3,2,0,1,2000000,36,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Nilam Ardiansya,3200897460171450,Malang,07/08/1980,Buruh,Rp 1.500.000,5,1,0,2,1,1,1500000,44,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Lalita Firmansya,3200150054786440,Manokwari,27/06/1974,Buruh,Rp 2.000.000,9,0,2,2,2,2,2000000,51,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Marwata Narpati,3200052041951510,Pekanbaru,20/06/1955,Karyawan,Rp 500.000,3,1,0,0,1,1,500000,70,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Taufan Wacana,3200322124472600,Malang,10/10/1972,Petani,Rp 1.000.000,5,0,2,1,0,1,1000000,52,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Tina Melani,3200336189923660,Surabaya,18/12/1984,Petani,Rp 2.000.000,5,1,3,0,0,1,2000000,40,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Zizi Anggraini,3200260614516870,Banjarmasin,08/08/1998,Buruh,Rp 2.000.000,7,1,3,2,0,1,2000000,26,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Jono Nasyia,3200186740818590,Gorontalo,13/01/1965,Buruh,Rp 1.000.000,5,1,3,0,0,1,1000000,60,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Gani Kusumo,3200180150858310,Bogor,25/06/1986,Karyawan,Rp 2.000.000,8,1,3,1,2,1,2000000,39,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Dia Natsir,3200851981760060,Gorontalo,19/12/1975,Tidak Bekerja,Rp 0,5,1,1,1,0,2,0,49,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Klukman Siotang,3200469615866970,Jambi,19/04/1963,Wiraswasta,Rp 500.000,6,1,1,2,2,0,500000,62,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Ida Firgantoro,3200766978427740,Palu,26/01/1978,Karyawan,Rp 2.000.000,6,0,1,0,2,2,2000000,47,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Jasmin Gunawan,3200855573672850,Surabaya,14/06/1992,Karyawan,Rp 1.500.000,8,1,3,2,1,0,1500000,33,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Jarwi Permadi,3200015902804790,Surabaya,04/01/1961,Petani,Rp 1.500.000,8,1,2,1,2,1,1500000,64,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Elvina Nurdiyanti,3200564451444210,Medan,01/07/1964,Petani,Rp 2.000.000,7,0,3,0,1,2,2000000,61,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Gabriella Marpaung,3200520650746720,Balikpapan,28/04/1955,Buruh,Rp 2.000.000,6,0,3,0,0,2,2000000,70,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Tgkirsad Mansur,3200074916106610,Palembang,30/05/1956,Tidak Bekerja,Rp 0,6,0,3,2,0,0,0,69,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Puput Nasiruddin,3200473998606910,Bogor,04/08/1961,Buruh,Rp 1.500.000,3,0,0,1,0,2,1500000,63,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Karima Tamrin,3200737720972140,Kendari,12/05/1986,Buruh,Rp 1.000.000,6,0,3,0,2,1,1000000,39,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Padmi Santoso,3200650188597330,Bogor,05/06/1992,Tidak Bekerja,Rp 0,4,0,2,1,1,0,0,33,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Fara Ardiansya,3200260195677020,Pontianak,07/08/1963,Buruh,Rp 500.000,2,0,1,0,0,0,500000,61,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Lalita Wayudin,3200682763689640,Jambi,08/04/1987,Karyawan,Rp 1.500.000,6,0,3,2,1,0,1500000,38,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Karima Budiman,3200107477933560,Balikpapan,07/07/1972,Wiraswasta,Rp 1.500.000,5,0,1,2,1,1,1500000,52,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Luung Andriani,3200713845851050,Banjarmasin,06/06/1984,Wiraswasta,Rp 1.000.000,4,0,0,2,1,1,1000000,41,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Yoga Kusumo,3200987898278370,Pekanbaru,13/08/1957,Tidak Bekerja,Rp 0,6,0,3,1,1,1,0,67,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Paris Artati,3200575324898330,Kendari,09/10/1963,Wiraswasta,Rp 2.000.000,5,1,0,2,2,0,2000000,61,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Kamila Sudiati,3200582691934250,Manokwari,08/08/1977,Buruh,Rp 1.500.000,0,0,0,0,0,0,1500000,47,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Janet Safitri,3200470167998140,Gorontalo,19/02/1995,Karyawan,Rp 1.000.000,5,1,2,0,2,0,1000000,30,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Tgkpurwanto Siombing,3200773037512880,Semarang,17/12/1974,Petani,Rp 1.000.000,3,1,1,0,1,0,1000000,50,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Capa Abibi,3200417902724810,Gorontalo,13/09/1985,Wiraswasta,Rp 2.000.000,3,0,0,2,0,1,2000000,39,"P1,P2,P4,P5",4,"Score: 4/6 - P1,P2,P4,P5",1,1,0,1,1,0
+Sara Maulana,3200262923115320,Palu,16/02/1986,Buruh,Rp 500.000,2,0,0,0,1,0,500000,39,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Puti Mala Suwarno,3200895129145420,Jambi,22/01/1974,Karyawan,Rp 2.000.000,3,0,1,1,1,0,2000000,51,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Jamalia Mandasari,3200064884362910,Medan,24/12/1984,Petani,Rp 500.000,7,1,2,0,2,1,500000,40,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ari Raayu,3200982270405940,Jambi,25/03/1989,Wiraswasta,Rp 500.000,8,1,3,1,2,1,500000,36,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Nilam Pradipta,3200520527207800,Bogor,12/11/1959,Tidak Bekerja,Rp 0,9,1,2,2,2,1,0,65,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Aswani Prastuti,3200863121701410,Palangka Raya,17/04/1979,Tidak Bekerja,Rp 0,3,0,1,0,1,1,0,46,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Aslijan Waluyo.,3200670222932090,Manokwari,10/06/1968,Karyawan,Rp 500.000,2,0,1,0,0,0,500000,57,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Elma Nainggolan,3200478216174340,Semarang,03/02/1967,Karyawan,Rp 1.000.000,3,0,0,1,1,1,1000000,58,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Bajragin Tamba,3200257033557350,Yogyakarta,05/05/1967,Petani,Rp 2.000.000,6,1,1,1,2,1,2000000,58,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Jamil Rajata,3200394891744580,Manado,13/06/1963,Petani,Rp 1.500.000,6,0,2,0,2,2,1500000,62,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Putri Wastuti,3200741431390110,Gorontalo,29/06/1979,Petani,Rp 1.500.000,4,0,1,2,0,0,1500000,46,"P1,P4",2,"Score: 2/6 - P1,P4",1,0,0,1,0,0
+Tgkpia Kuswoyo,3200739870683970,Bogor,11/09/1991,Buruh,Rp 1.000.000,5,0,1,2,2,0,1000000,33,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Yoga Maeswara,3200038150770970,Lampung,07/03/1960,Tidak Bekerja,Rp 0,5,1,1,1,1,1,0,65,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Cut Ica Irawan,3200097125811310,Yogyakarta,10/12/1963,Tidak Bekerja,Rp 0,3,0,2,0,0,0,0,61,"P1,P2,P3",3,"Score: 3/6 - P1,P2,P3",1,1,1,0,0,0
+Talia Winarsi,3200202925864700,Yogyakarta,25/06/1962,Petani,Rp 1.000.000,10,1,3,2,2,2,1000000,63,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Cakrajiya Nasiruddin,3200569158260460,Malang,05/10/1980,Petani,Rp 1.000.000,7,0,2,2,1,2,1000000,44,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Rafi Januar,3200107233294910,Merauke,19/01/1993,Petani,Rp 500.000,7,1,2,2,2,0,500000,32,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Jarwi Saputra,3200739724553780,Bogor,27/09/1978,Buruh,Rp 1.500.000,8,0,3,1,1,2,1500000,46,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Bakidin Nugroo,3200737248727640,Malang,11/02/1999,Tidak Bekerja,Rp 0,6,1,0,2,1,2,0,26,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Jaswadi Siregar,3200210429451010,Gorontalo,04/10/1977,Petani,Rp 500.000,7,1,2,1,0,2,500000,47,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Jayadi Laksita,3200523179261020,Pontianak,13/03/1996,Tidak Bekerja,Rp 0,8,1,2,1,2,1,0,29,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Uli Yulianti,3200899361198340,Bengkulu,29/04/1966,Buruh,Rp 1.500.000,5,0,0,1,2,1,1500000,59,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Kalim Najmudin,3200341431864950,Jayapura,23/03/1959,Wiraswasta,Rp 2.000.000,4,0,1,2,1,0,2000000,66,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Tgkgina Anggriawan,3200098997153950,Gorontalo,23/05/1985,Petani,Rp 2.000.000,7,1,2,1,0,2,2000000,40,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Samia Raayu,3200413026238170,Bandung,14/04/1999,Tidak Bekerja,Rp 0,7,0,3,1,2,1,0,26,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Gadu Yuliarti,3200067379719510,Samarinda,17/04/1986,Karyawan,Rp 1.500.000,5,0,0,2,1,1,1500000,39,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Zamira Marbun,3200053243220050,Manokwari,13/12/1966,Tidak Bekerja,Rp 0,3,1,0,0,0,1,0,58,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Sutan Gamanto Suartini,3200168363172450,Jambi,11/06/1969,Karyawan,Rp 2.000.000,8,0,3,1,2,2,2000000,56,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Madinata Susanti,3200365875939860,Palembang,08/10/1996,Wiraswasta,Rp 2.000.000,5,0,2,2,1,0,2000000,28,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Cici Zulkarnain,3200944132465570,Balikpapan,20/08/1971,Petani,Rp 2.000.000,3,1,0,0,2,0,2000000,53,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Eko Siotang,3200973671740810,Semarang,14/09/1996,Tidak Bekerja,Rp 0,9,1,3,2,2,1,0,28,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Tami Tamba,3200472854145940,Kendari,11/02/1970,Tidak Bekerja,Rp 0,6,1,1,2,2,0,0,55,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Ciaobella Mardiya,3200791679978560,Palembang,14/03/1962,Buruh,Rp 500.000,6,1,3,0,1,0,500000,63,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Vivi Siregar,3200994511397830,Palu,08/11/1971,Petani,Rp 1.500.000,8,1,2,1,1,2,1500000,53,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Suci Mustofa,3200642422562250,Bogor,15/04/1964,Buruh,Rp 1.000.000,5,0,1,1,1,2,1000000,61,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Gasti Kusmawati,3200178062096770,Bandung,23/05/1972,Karyawan,Rp 2.000.000,7,0,1,1,2,2,2000000,53,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Kayun Situmorang,3200491544973130,Pekanbaru,03/02/1962,Petani,Rp 500.000,3,1,1,0,0,1,500000,63,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Dinda Salaudin,3200802033657350,Jayapura,18/02/1993,Petani,Rp 500.000,6,1,0,0,2,2,500000,32,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Karja Kuswoyo,3200495016607320,Pekanbaru,07/04/1976,Buruh,Rp 2.000.000,4,1,1,0,1,0,2000000,49,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Tami Wibowo,3200850516406220,Palembang,05/07/1969,Karyawan,Rp 1.000.000,7,1,3,0,0,2,1000000,56,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Rusman Putra,3200757712781980,Bandung,02/09/1991,Karyawan,Rp 1.500.000,3,1,2,0,0,0,1500000,33,"P1,P2,P3",3,"Score: 3/6 - P1,P2,P3",1,1,1,0,0,0
+Janet Uwais,3200751373912780,Bandung,30/05/1999,Karyawan,Rp 2.000.000,8,0,2,2,2,2,2000000,26,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Kasirwanda Lestari,3200613137513210,Yogyakarta,09/07/1970,Buruh,Rp 1.000.000,7,0,3,1,2,1,1000000,54,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Cakrawala Waskita,3200493147324160,Samarinda,15/06/1984,Buruh,Rp 1.500.000,6,1,3,2,0,0,1500000,41,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Janet Aryanto,3200698083127310,Jayapura,15/09/1993,Petani,Rp 1.500.000,9,1,3,1,2,1,1500000,31,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Tari Puspita,3200345051297600,Banjarmasin,11/01/1994,Wiraswasta,Rp 1.000.000,5,1,0,2,2,0,1000000,31,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Nilam Damanik,3200119036894770,Manado,18/08/1968,Buruh,Rp 1.000.000,6,1,2,2,1,0,1000000,56,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Ade Wacana,3200381519969450,Medan,10/02/1974,Petani,Rp 2.000.000,9,1,3,2,1,2,2000000,51,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Ellis Manullang,3200973850957850,Sorong,17/09/1980,Wiraswasta,Rp 1.000.000,2,0,0,0,0,2,1000000,44,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Safina Salaudin,3200007421444770,Pekanbaru,27/03/1982,Wiraswasta,Rp 1.500.000,5,1,0,2,0,2,1500000,43,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Tami Suryono,3200234926625870,Malang,12/11/1955,Wiraswasta,Rp 2.000.000,8,1,2,1,1,2,2000000,69,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ardi Agustina,3200507923970840,Kendari,18/03/1987,Karyawan,Rp 1.500.000,3,0,0,1,1,0,1500000,38,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Julia Lailasari,3200810730290390,Lampung,30/05/1962,Tidak Bekerja,Rp 0,7,0,2,1,2,1,0,63,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Keisa Sinaga,3200400790974320,Medan,04/01/1993,Wiraswasta,Rp 2.000.000,9,1,3,2,2,0,2000000,32,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Lanjar Andayani,3200296436845600,Balikpapan,27/03/1972,Tidak Bekerja,Rp 0,3,1,0,0,2,0,0,53,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Puti Puspa Nasiruddin,3200714859142130,Samarinda,03/04/1996,Karyawan,Rp 500.000,4,0,0,0,2,1,500000,29,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Damar Marbun,3200256620610250,Yogyakarta,25/04/1995,Petani,Rp 2.000.000,4,0,1,0,1,1,2000000,30,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Sutan Viktor Simanjuntak,3200104490195780,Yogyakarta,09/07/1957,Tidak Bekerja,Rp 0,5,1,0,1,0,2,0,67,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Tgkcinta Anggriawan,3200295484260780,Pontianak,05/04/1957,Petani,Rp 2.000.000,0,0,0,0,0,0,2000000,68,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Fara Siombing,3200284225136590,Pekanbaru,08/08/1956,Karyawan,Rp 1.000.000,9,1,2,1,2,2,1000000,68,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ratna Widodo,3200089816483920,Kendari,30/06/1964,Tidak Bekerja,Rp 0,5,0,3,0,0,2,0,61,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Mujur Astuti,3200842883567330,Balikpapan,24/06/2000,Wiraswasta,Rp 1.500.000,6,0,3,0,1,1,1500000,25,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Melinda Siombing,3200267372711740,Bengkulu,17/12/1975,Wiraswasta,Rp 500.000,6,1,1,2,1,1,500000,49,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Qori Gunarto,3200927453309280,Jayapura,13/02/1994,Tidak Bekerja,Rp 0,2,0,1,0,0,0,0,31,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Paiman Anggriawan,3200840546164300,Lampung,08/11/1999,Petani,Rp 1.500.000,5,1,0,1,0,2,1500000,25,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Eka Sitorus,3200349031012270,Padang,12/07/1973,Wiraswasta,Rp 500.000,7,1,1,1,2,2,500000,51,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Yusuf Simanjuntak,3200710612690230,Jayapura,11/09/1973,Tidak Bekerja,Rp 0,6,1,2,1,0,2,0,51,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Rrini Mayasari,3200294377331870,Makassar,17/12/1962,Petani,Rp 1.500.000,5,1,3,0,1,0,1500000,62,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Kasim Widodo,3200590551696850,Manado,23/07/1967,Karyawan,Rp 2.000.000,10,1,3,1,2,2,2000000,57,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Cut Gina Putra,3200937953983100,Manokwari,16/04/1968,Karyawan,Rp 1.500.000,4,0,2,2,0,0,1500000,57,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Sabrina Adriansya,3200809294557560,Pekanbaru,30/09/1991,Tidak Bekerja,Rp 0,9,0,3,1,2,2,0,33,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Kprayoga Tampubolon,3200927772064980,Jayapura,11/02/1957,Tidak Bekerja,Rp 0,6,0,3,2,0,1,0,68,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Irfan Waskita,3200167366321500,Bogor,04/05/2000,Karyawan,Rp 2.000.000,6,1,2,2,1,0,2000000,25,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Darmana Pangestu,3200382812316560,Pekanbaru,01/10/1997,Wiraswasta,Rp 2.000.000,5,0,1,1,2,1,2000000,27,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Silvia Nurdiyanti,3200065638339830,Yogyakarta,21/03/1956,Karyawan,Rp 2.000.000,2,0,1,0,0,1,2000000,69,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Puspa Siotang,3200905940895430,Palembang,12/04/1963,Karyawan,Rp 1.000.000,4,1,0,0,0,2,1000000,62,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Ulya Winarno,3200091426140800,Bandung,23/11/1982,Wiraswasta,Rp 500.000,4,1,0,2,0,0,500000,42,"P1,P4",2,"Score: 2/6 - P1,P4",1,0,0,1,0,0
+Mariadi Oktaviani,3200688014306570,Samarinda,02/09/1973,Wiraswasta,Rp 500.000,8,1,3,2,0,1,500000,51,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Arsanto Artati,3200406179202220,Manado,06/01/1973,Wiraswasta,Rp 2.000.000,2,0,1,1,0,0,2000000,52,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Umar Megantara,3200726510231150,Bandung,05/10/1996,Karyawan,Rp 2.000.000,9,0,2,2,2,2,2000000,28,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Alika Susanti,3200920098587040,Lampung,12/04/1988,Karyawan,Rp 500.000,2,1,0,1,0,0,500000,37,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Balidin Yolanda,3200989377017990,Banjarmasin,06/04/1978,Tidak Bekerja,Rp 0,8,1,3,0,1,2,0,47,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ayu Abibi,3200263073193450,Gorontalo,10/02/1960,Wiraswasta,Rp 500.000,8,1,2,2,2,0,500000,65,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Ida Usama,3200686073400500,Medan,22/07/1955,Wiraswasta,Rp 1.200.000,6,1,0,1,2,1,1200000,69,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Puti Rati Ardianto,3200668173997830,Kendari,05/12/1968,Buruh,Rp 2.000.000,3,0,1,0,1,1,2000000,56,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Dadap Fujiati,3200941835894500,Medan,29/09/1999,Buruh,Rp 1.000.000,7,1,2,0,2,2,1000000,25,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Yance Aryanti,3200515275047320,Manokwari,11/08/1958,Karyawan,Rp 2.000.000,9,1,3,2,2,1,2000000,66,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Eman Irawan,3200245290362470,Pontianak,15/02/1960,Petani,Rp 1.500.000,8,0,2,1,2,2,1500000,65,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Najib Saragi,3200441981404950,Padang,22/01/1992,Buruh,Rp 1.200.000,5,1,1,1,1,0,1200000,33,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Laswi Wasita,3200880572204280,Palangka Raya,18/01/1957,Karyawan,Rp 1.200.000,4,0,0,2,1,0,1200000,68,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Karya Damanik,3200252562903610,Malang,29/01/1975,Tidak Bekerja,Rp 0,6,0,1,1,2,1,0,50,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Lala Maryati,3200166059912850,Pekanbaru,16/11/1955,Buruh,Rp 2.000.000,6,0,3,2,0,0,2000000,69,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Almira Usada,3200303558298140,Samarinda,01/10/1967,Tidak Bekerja,Rp 0,6,1,0,2,2,0,0,57,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Kamidin Santoso,3200998660189640,Jayapura,22/04/1955,Tidak Bekerja,Rp 0,5,1,1,0,1,2,0,70,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Diana Fujiati,3200273937623640,Surabaya,07/05/1960,Karyawan,Rp 1.500.000,7,1,0,1,2,2,1500000,65,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Alim Wastuti,3200233340576450,Jayapura,10/09/1995,Buruh,Rp 500.000,7,0,1,2,1,2,500000,29,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Jagaraga Akim,3200220886128000,Banjarmasin,09/04/1987,Tidak Bekerja,Rp 0,4,1,2,1,0,0,0,38,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Raayu Sudiati,3200826472129180,Palu,06/12/1988,Tidak Bekerja,Rp 0,7,0,2,2,0,2,0,36,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Joko Utasoit.,3200791497850680,Sorong,16/11/1955,Karyawan,Rp 1.000.000,7,1,3,2,1,0,1000000,69,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Sutan Mursinin Nasiruddin,3200483783292160,Makassar,13/12/1956,Buruh,Rp 2.000.000,8,1,2,1,2,2,2000000,68,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Cayono Widiastuti,3200654890933150,Semarang,16/08/1973,Wiraswasta,Rp 1.800.000,6,1,1,0,2,2,1800000,51,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Salima Abibi,3200277748463010,Balikpapan,14/02/1976,Buruh,Rp 1.200.000,5,1,1,0,2,1,1200000,49,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Karta Laksmiwati,3200989314347650,Makassar,18/01/1985,Wiraswasta,Rp 500.000,9,0,3,2,2,2,500000,40,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Eka Utama,3200773499939070,Jayapura,16/01/1962,Buruh,Rp 1.000.000,7,0,3,2,0,1,1000000,63,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Adika Prakasa,3200126425329790,Lampung,17/11/1997,Petani,Rp 2.000.000,4,0,2,0,1,1,2000000,27,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Vivi Usada,3200358677625870,Manado,02/03/1967,Tidak Bekerja,Rp 0,8,1,3,1,0,2,0,58,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Zizi Januar,3200987758913050,Balikpapan,02/03/1987,Buruh,Rp 1.500.000,6,1,1,1,1,1,1500000,38,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Sutan Jono Nasyia,3200147669546720,Bengkulu,01/04/1967,Tidak Bekerja,Rp 0,3,1,0,0,1,0,0,58,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Tomi Januar,3200965742583570,Pekanbaru,21/06/1999,Petani,Rp 2.000.000,4,0,0,1,1,1,2000000,26,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Edi Purwanti,3200418615444540,Makassar,03/05/1967,Petani,Rp 1.500.000,9,1,3,1,2,1,1500000,58,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Patricia Mangunsong,3200927307577890,Bogor,03/04/1964,Karyawan,Rp 3.000.000,3,0,0,1,1,0,3000000,61,"P2,P6",2,"Score: 2/6 - P2,P6",0,1,0,0,0,1
+Galur Andriani,3200220794956860,Kendari,10/08/1987,Buruh,Rp 500.000,4,1,1,0,1,0,500000,37,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Farunnisa Utasoit,3200064991687220,Padang,09/09/1981,Buruh,Rp 1.000.000,5,0,3,1,1,0,1000000,43,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Kani Ardianto,3200390521987960,Palangka Raya,26/06/1992,Tidak Bekerja,Rp 0,5,1,1,2,0,1,0,33,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Sutan Daliono Prakasa,3200148386048330,Padang,08/11/1967,Petani,Rp 1.000.000,3,1,1,0,0,1,1000000,57,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Nurul Palastri,3200501478120300,Depok,12/05/1976,Tidak Bekerja,Rp 0,8,1,1,2,1,2,0,49,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Sari Suryatmi,3200844884435240,Bengkulu,18/12/1987,Petani,Rp 500.000,4,0,1,1,1,1,500000,37,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Paulin Budiman,3200325110949600,Malang,11/09/1988,Petani,Rp 1.000.000,7,0,2,2,2,1,1000000,36,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Ika Budiman,3200167713774410,Sorong,13/01/1967,Karyawan,Rp 1.500.000,5,0,3,2,0,0,1500000,58,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Tedi Mandasari,3200602560437790,Bekasi,16/04/1987,Petani,Rp 500.000,4,1,0,2,0,1,500000,38,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Rangga Yulianti,3200996098707740,Yogyakarta,25/08/1978,Petani,Rp 2.000.000,7,0,2,2,2,0,2000000,46,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Paiman Uwais,3200771342440310,Palangka Raya,18/04/1973,Karyawan,Rp 1.500.000,3,0,1,0,0,2,1500000,52,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Laswi Lestari,3200574473837020,Padang,28/02/1957,Tidak Bekerja,Rp 0,7,1,0,1,2,2,0,68,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Wardaya Siotang.,3200462541657430,Surabaya,13/02/1955,Karyawan,Rp 1.000.000,9,0,3,1,2,2,1000000,70,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Tgkwani Mardiya,3200284792992140,Banjarmasin,04/06/1955,Wiraswasta,Rp 1.000.000,2,0,2,0,0,0,1000000,70,"P1,P2,P3",3,"Score: 3/6 - P1,P2,P3",1,1,1,0,0,0
+Raisa Raayu,3200046581914650,Bengkulu,03/02/1963,Petani,Rp 1.500.000,5,0,2,0,2,0,1500000,62,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Kiandra Ardianto,3200621286919670,Jambi,28/04/1974,Karyawan,Rp 1.500.000,4,1,1,0,1,1,1500000,51,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Ardi Sitompul,3200769349338380,Makassar,03/03/1976,Petani,Rp 2.000.000,6,0,1,0,2,2,2000000,49,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Gabriella Ramawati,3200972010336970,Manado,25/01/1999,Petani,Rp 210.000,4,0,0,1,0,2,210000,26,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Restu Adriansya,3200049320127450,Sorong,05/10/1963,Buruh,Rp 1.000.000,8,0,2,2,2,1,1000000,61,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Puji Nasiruddin,3200425506790390,Palembang,01/10/1991,Tidak Bekerja,Rp 0,4,1,2,0,1,0,0,33,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Sutan Jayadi Irawan,3200180414171600,Sorong,30/08/1967,Wiraswasta,Rp 500.000,6,0,2,2,0,2,500000,57,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Cintia Lazuardi,3200739812166610,Samarinda,04/05/1988,Karyawan,Rp 500.000,1,0,0,0,0,0,500000,37,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Rama Firgantoro,3200025210698250,Makassar,28/02/1987,Wiraswasta,Rp 1.000.000,4,0,3,0,0,1,1000000,38,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Paris Samosir,3200993498459410,Palu,05/12/1995,Karyawan,Rp 1.500.000,7,1,3,2,0,0,1500000,29,"P1,P3,P4",3,"Score: 3/6 - P1,P3,P4",1,0,1,1,0,0
+Ani Pertiwi,3200814482874190,Manokwari,15/03/1985,Tidak Bekerja,Rp 0,6,0,3,2,1,0,0,40,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Agnes Zulkarnain,3200220648151380,Padang,07/10/1955,Karyawan,Rp 500.000,8,1,1,2,1,2,500000,69,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Jessica Siombing,3200442114417620,Semarang,22/07/1974,Karyawan,Rp 2.000.000,7,1,3,0,2,1,2000000,50,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Safina Uyaina,3200462073016340,Semarang,07/09/1993,Wiraswasta,Rp 500.000,4,0,2,0,2,0,500000,31,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Arjaya Mandala,3200405825764770,Semarang,18/02/2000,Wiraswasta,Rp 2.000.000,6,0,3,2,1,0,2000000,25,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Puti Melinda Oktaviani,3200781267445380,Semarang,20/07/1957,Buruh,Rp 2.000.000,6,0,3,0,1,1,2000000,67,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Dian Pranowo,3200435605629370,Depok,13/10/1964,Petani,Rp 500.000,7,0,3,0,2,1,500000,60,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Karima Purnawati,3200517137581240,Manokwari,02/03/1993,Wiraswasta,Rp 2.000.000,6,1,0,1,1,2,2000000,32,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Maida Uwais,3200638513342870,Manado,11/09/1996,Buruh,Rp 1.500.000,8,0,2,2,2,2,1500000,28,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Kartika Mangunsong,3200380621384070,Gorontalo,24/05/1967,Tidak Bekerja,Rp 0,4,1,1,1,0,1,0,58,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Rusman Artati,3200045739186320,Surabaya,28/12/1972,Buruh,Rp 1.500.000,4,1,2,0,0,0,1500000,52,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Adiarja Ardiansya,3200955515050410,Malang,30/12/1995,Buruh,Rp 1.500.000,7,0,3,1,2,0,1500000,29,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Jamil Namaga,3200875501079860,Semarang,29/04/1975,Tidak Bekerja,Rp 0,4,0,1,1,1,1,0,50,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Rina Utama,3200199651276750,Malang,27/01/1984,Buruh,Rp 329.000,8,1,2,1,2,1,329000,41,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Gina Jailani.,3200207021779520,Palembang,01/11/1960,Buruh,Rp 1.000.000,9,1,3,1,2,1,1000000,64,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Farunnisa Siotang,3200744952960150,Padang,07/05/1956,Buruh,Rp 1.000.000,1,0,0,0,0,1,1000000,69,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Jane Idayanto,3200297733053530,Bogor,01/07/1973,Wiraswasta,Rp 500.000,4,1,0,1,0,1,500000,52,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Samia Pertiwi,3200551109884620,Samarinda,12/07/1993,Buruh,Rp 2.000.000,5,1,0,1,0,2,2000000,31,"P1,P5",2,"Score: 2/6 - P1,P5",1,0,0,0,1,0
+Ani Alim,3200018994849230,Manado,30/05/1988,Petani,Rp 1.500.000,5,1,1,1,2,0,1500000,37,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Balijan Manullang,3200282223047660,Manado,07/09/1985,Wiraswasta,Rp 1.000.000,6,1,1,1,2,0,1000000,39,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Embu Aryanto,3200103222695400,Pekanbaru,09/12/1963,Petani,Rp 1.500.000,4,0,0,2,2,0,1500000,61,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Wirda Siregar,3200944988466940,Balikpapan,13/07/1959,Karyawan,Rp 2.000.000,6,0,1,2,2,1,2000000,65,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Sabrina Narpati,3200308188413290,Merauke,20/09/1971,Buruh,Rp 1.500.000,7,0,3,0,2,2,1500000,53,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Yono Utasoit,3200724061552400,Jambi,07/09/1981,Petani,Rp 500.000,5,1,1,1,2,0,500000,43,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Ika Setiawan,3200652406806430,Gorontalo,27/01/1970,Karyawan,Rp 2.300.000,8,0,3,0,2,2,2300000,55,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ira Winarno,3200232584334420,Depok,22/11/1998,Wiraswasta,Rp 500.000,10,1,2,2,2,2,500000,26,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Kcakrawala Fujiati,3200152307066470,Surabaya,24/02/1995,Tidak Bekerja,Rp 0,6,1,2,1,1,0,0,30,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Mitra Assana,3200330342271580,Pekanbaru,02/07/1996,Tidak Bekerja,Rp 0,5,1,1,0,2,0,0,29,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Asna Maryati,3200693578304360,Semarang,29/07/1959,Petani,Rp 500.000,7,0,3,0,2,1,500000,65,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Azalea Kusumo,3200869559055860,Jayapura,11/05/1986,Tidak Bekerja,Rp 0,4,1,0,1,1,1,0,39,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Artawan Latupono,3200960591723620,Bogor,07/04/1991,Buruh,Rp 1.000.000,4,0,2,0,1,0,1000000,34,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Pangeran Lazuardi,3200197054120870,Makassar,02/12/1990,Tidak Bekerja,Rp 0,7,0,2,1,1,2,0,34,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Puti Suryono,3200704389527620,Malang,14/10/1984,Buruh,Rp 1.500.000,5,0,3,0,0,2,1500000,40,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Nrima Nurdiyanti,3200099853946180,Sorong,08/10/1992,Wiraswasta,Rp 2.000.000,1,1,0,0,0,0,2000000,32,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Vera Nurdiyanti,3200029823600090,Balikpapan,08/09/1981,Tidak Bekerja,Rp 0,7,1,3,0,2,1,0,43,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Mala Maendra,3200290322968000,Semarang,28/08/1957,Buruh,Rp 1.500.000,8,1,3,2,1,1,1500000,67,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Ika Fujiati,3200040148108530,Kendari,10/02/1977,Wiraswasta,Rp 1.000.000,7,1,0,2,2,2,1000000,48,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Cindy Susanti,3200102277121570,Merauke,23/12/1979,Wiraswasta,Rp 1.000.000,6,0,2,0,1,2,1000000,45,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Tania Rajasa,3200765129286810,Pekanbaru,13/03/1993,Tidak Bekerja,Rp 0,4,0,0,2,0,1,0,32,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Damar Maryati,3200841027737780,Manado,21/12/1963,Tidak Bekerja,Rp 0,7,1,3,1,0,1,0,61,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Ica Abibi,3200797231830960,Makassar,29/11/1976,Wiraswasta,Rp 1.000.000,4,1,0,2,0,0,1000000,48,"P1,P4",2,"Score: 2/6 - P1,P4",1,0,0,1,0,0
+Sakura Yuniar,3200679327879710,Malang,23/05/1988,Buruh,Rp 1.000.000,6,0,1,1,2,2,1000000,37,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Maida Gunarto,3200174543421020,Jambi,06/06/1972,Wiraswasta,Rp 500.000,4,0,1,1,1,1,500000,53,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Jayadi Nurdiyanti,3200055348133000,Semarang,18/01/1992,Buruh,Rp 1.000.000,6,0,2,0,2,1,1000000,33,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Eli Utama,3200671405050990,Bogor,26/06/1973,Wiraswasta,Rp 500.000,6,1,2,0,2,0,500000,52,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Paris Sitompul,3200890619220210,Lampung,08/02/1968,Petani,Rp 1.000.000,6,0,0,1,2,2,1000000,57,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Legawa Permadi,3200507357672510,Lampung,03/07/1967,Wiraswasta,Rp 1.000.000,7,1,2,2,1,1,1000000,58,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Mnrima Suartini,3200783287652660,Manokwari,08/06/1965,Wiraswasta,Rp 1.500.000,3,0,0,0,1,2,1500000,60,"P1,P2,P5,P6",4,"Score: 4/6 - P1,P2,P5,P6",1,1,0,0,1,1
+Cut Novi Saptono,3200878136674070,Bengkulu,03/12/1978,Tidak Bekerja,Rp 0,5,1,0,0,2,1,0,46,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Lemba Siombing,3200945501457530,Makassar,17/04/2000,Tidak Bekerja,Rp 0,4,1,0,1,2,0,0,25,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Enda Aryanti,3200096601422620,Medan,09/01/1964,Wiraswasta,Rp 500.000,5,1,1,0,2,0,500000,61,"P1,P6",2,"Score: 2/6 - P1,P6",1,0,0,0,0,1
+Paulin Putra,3200627441800870,Sorong,15/01/1982,Buruh,Rp 2.500.000,5,1,1,1,2,0,2500000,43,P6,1,Score: 1/6 - P6,0,0,0,0,0,1
+Amalia Laksmiwati,3200459841875040,Semarang,09/10/1993,Petani,Rp 500.000,9,1,2,2,1,2,500000,31,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Purwadi Usada,3200358669348150,Padang,17/03/2000,Wiraswasta,Rp 500.000,6,1,1,1,1,2,500000,25,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Unggul Utami,3200195472340120,Bengkulu,30/11/1991,Wiraswasta,Rp 1.500.000,2,0,0,1,0,1,1500000,33,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Arsanto Januar,3200225050365850,Pontianak,12/11/1969,Petani,Rp 1.000.000,7,0,0,2,2,2,1000000,55,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Marsito Mangunsong,3200852303592570,Manado,20/04/1984,Petani,Rp 1.500.000,3,0,0,2,0,1,1500000,41,"P1,P2,P4,P5",4,"Score: 4/6 - P1,P2,P4,P5",1,1,0,1,1,0
+Safina Putra,3200994090487450,Palembang,21/12/1990,Tidak Bekerja,Rp 0,6,1,2,0,1,2,0,34,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Jasmin Pradipta,3200774038899450,Surabaya,04/01/1968,Wiraswasta,Rp 1.000.000,7,1,2,1,2,1,1000000,57,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Martani Dongoran,3200770082161830,Jambi,30/06/1996,Petani,Rp 2.000.000,8,1,3,1,1,2,2000000,29,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Unjani Mandala,3200572902141520,Medan,20/11/1973,Tidak Bekerja,Rp 0,2,0,0,2,0,0,0,51,"P1,P2,P4",3,"Score: 3/6 - P1,P2,P4",1,1,0,1,0,0
+Tgkjuli Wijaya,3200725412840920,Bekasi,15/11/1973,Wiraswasta,Rp 1.000.000,5,1,1,2,0,1,1000000,51,"P1,P4,P5",3,"Score: 3/6 - P1,P4,P5",1,0,0,1,1,0
+Pangestu Suryatmi,3200262667210620,Palangka Raya,14/09/1977,Wiraswasta,Rp 2.000.000,6,1,1,0,2,1,2000000,47,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Endra Wulandari.,3200571783750650,Yogyakarta,21/06/1959,Karyawan,Rp 800.000,7,0,2,2,2,1,800000,66,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Sabrina Saragi,3200356495723310,Samarinda,26/11/1970,Buruh,Rp 900.000,8,1,3,0,2,1,900000,54,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Banawa Astuti,3200873896691570,Sorong,21/03/1984,Wiraswasta,Rp 1.000.000,5,0,2,1,0,1,1000000,41,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Safina Astuti,3200837055138220,Balikpapan,20/02/1977,Petani,Rp 1.500.000,5,0,1,1,1,1,1500000,48,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Ajiman Nugroo,3200498370616320,Pontianak,27/03/1981,Petani,Rp 500.000,7,0,1,2,2,1,500000,44,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Jarwa Pratiwi,3200658699375730,Kendari,04/03/1960,Petani,Rp 500.000,10,1,3,2,2,1,500000,65,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Kanda Adriansya,3200174081566990,Jayapura,02/03/1993,Karyawan,Rp 2.000.000,3,0,0,0,2,0,2000000,32,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Gambira Farida,3200523702813500,Medan,02/05/1982,Tidak Bekerja,Rp 0,8,0,3,2,0,2,0,43,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Arsanto Laksita,3200528521489840,Padang,15/05/1998,Wiraswasta,Rp 500.000,3,0,1,1,0,1,500000,27,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Gambira Palastri,3200466008106100,Merauke,27/05/1959,Karyawan,Rp 500.000,6,0,1,2,2,0,500000,66,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1
+Mariadi Wacana,3200272241360880,Palu,14/08/1979,Karyawan,Rp 1.000.000,4,1,1,0,1,1,1000000,45,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Latif Wacana,3200077380111950,Merauke,09/08/1972,Wiraswasta,Rp 2.000.000,4,0,0,1,2,1,2000000,52,"P1,P5,P6",3,"Score: 3/6 - P1,P5,P6",1,0,0,0,1,1
+Jagapati Wibowo,3200060399736690,Pontianak,08/07/1984,Wiraswasta,Rp 500.000,5,0,2,2,0,1,500000,40,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Rella Nainggolan,3200708703542510,Manokwari,14/10/1996,Tidak Bekerja,Rp 0,4,0,3,0,0,1,0,28,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Dian Mardiya,3200153523845300,Manokwari,09/09/1971,Tidak Bekerja,Rp 0,5,1,0,2,1,1,0,53,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Darmana Ariya,3200421248031820,Manado,21/12/1956,Petani,Rp 500.000,4,0,2,0,0,2,500000,68,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Latif Siotang,3200798483608270,Bandung,15/11/1989,Buruh,Rp 700.000,1,1,0,0,0,0,700000,35,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Irwan Maendra,3200089662024040,Palembang,21/01/1986,Buruh,Rp 500.000,5,0,2,1,1,1,500000,39,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Cintia Prayoga,3200279108562490,Bengkulu,27/08/1970,Karyawan,Rp 1.000.000,5,1,2,1,1,0,1000000,54,"P1,P3,P6",3,"Score: 3/6 - P1,P3,P6",1,0,1,0,0,1
+Pandu Purnawati,3200105835271790,Padang,12/01/1958,Tidak Bekerja,Rp 0,7,0,3,0,2,2,0,67,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Rati Zulkarnain,3200074922325540,Pekanbaru,26/03/1991,Petani,Rp 1.500.000,3,0,0,1,2,0,1500000,34,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Tgkbakiono Prasetya,3200544224361900,Lampung,25/06/1989,Buruh,Rp 1.500.000,9,0,3,2,1,2,1500000,36,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Puti Ika Ariya,3200103709915640,Bandung,21/03/1988,Wiraswasta,Rp 500.000,9,1,2,2,2,1,500000,37,"P1,P3,P4,P5,P6",5,"Score: 5/6 - P1,P3,P4,P5,P6",1,0,1,1,1,1
+Ari Idayanto,3200101339940980,Palembang,10/12/1973,Petani,Rp 1.500.000,6,0,3,0,1,1,1500000,51,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Cut Jessica Raayu,3200209094551780,Palembang,19/05/1976,Wiraswasta,Rp 1.000.000,5,1,3,1,0,0,1000000,49,"P1,P3",2,"Score: 2/6 - P1,P3",1,0,1,0,0,0
+Irnanto Andayani,3200336701423120,Pontianak,13/04/1966,Petani,Rp 1.500.000,6,1,2,2,0,1,1500000,59,"P1,P3,P4,P5",4,"Score: 4/6 - P1,P3,P4,P5",1,0,1,1,1,0
+Nalar Nuraini,3200817995337750,Banjarmasin,03/08/1999,Wiraswasta,Rp 2.000.000,3,0,1,1,1,0,2000000,25,"P1,P2,P6",3,"Score: 3/6 - P1,P2,P6",1,1,0,0,0,1
+Jasmin Budiyanto,3200435210582180,Sorong,15/04/1982,Tidak Bekerja,Rp 0,2,0,1,0,0,1,0,43,"P1,P2,P5",3,"Score: 3/6 - P1,P2,P5",1,1,0,0,1,0
+Fitria Abibi,3200720652356880,Bengkulu,25/06/1993,Tidak Bekerja,Rp 0,8,1,3,2,1,0,0,32,"P1,P3,P4,P6",4,"Score: 4/6 - P1,P3,P4,P6",1,0,1,1,0,1
+Aurora Budiman,3200144104220140,Samarinda,08/12/1976,Karyawan,Rp 1.500.000,6,0,2,0,2,2,1500000,48,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Vivi Assana,3200386806393370,Jayapura,15/01/1978,Tidak Bekerja,Rp 0,1,0,0,0,0,0,0,47,"P1,P2",2,"Score: 2/6 - P1,P2",1,1,0,0,0,0
+Amima Firmansya,3200639730549370,Banjarmasin,27/10/1983,Tidak Bekerja,Rp 0,7,1,2,0,2,2,0,41,"P1,P3,P5,P6",4,"Score: 4/6 - P1,P3,P5,P6",1,0,1,0,1,1
+Ellis Yulianti,3200555357500330,Manado,18/06/1975,Petani,Rp 1.000.000,5,1,2,1,0,1,1000000,50,"P1,P3,P5",3,"Score: 3/6 - P1,P3,P5",1,0,1,0,1,0
+Ella Simbolon,3200116788234100,Pontianak,11/11/1972,Tidak Bekerja,Rp 0,7,1,1,2,1,1,0,52,"P1,P4,P5,P6",4,"Score: 4/6 - P1,P4,P5,P6",1,0,0,1,1,1
+Sari Astuti,3200810727429020,Kendari,21/08/1963,Karyawan,Rp 2.000.000,7,1,1,2,2,0,2000000,61,"P1,P4,P6",3,"Score: 3/6 - P1,P4,P6",1,0,0,1,0,1

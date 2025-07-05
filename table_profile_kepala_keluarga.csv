@@ -1,0 +1,500 @@
+NIK,Nama_KK,Tanggal_Lahir,Umur,Domisili,Pekerjaan
+320050643115741000,Mana Wayudin,21/11/1974,50,Semarang,Buruh
+320035080157737000,Ozy Usada,25/03/1993,32,Padang,Buruh
+320066370425922000,Kenzie Ardianto,09/10/1991,33,Manado,Petani
+320020160642594000,Balamantri Nurdiyanti,21/01/1969,56,Medan,Petani
+320065198827649000,Xanana Saefulla,26/09/1971,53,Lampung,Wiraswasta
+320091881160809000,Ica Nababan,11/02/1985,40,Semarang,Karyawan
+320086729908420000,Kariman Puspasari,05/11/1968,56,Merauke,Wiraswasta
+320032607950517000,Yance Simbolon,07/06/1977,48,Manokwari,Wiraswasta
+320038149738175000,Nyana Mustofa,01/07/2000,25,Padang,Petani
+320070309459112000,Calista Siombing,30/08/1971,53,Malang,Tidak Bekerja
+320056828111469000,Rati Saragi,02/09/1956,68,Malang,Karyawan
+320074458197692000,Nrima Uyaina,24/05/1980,45,Depok,Tidak Bekerja
+320083569091806000,Nilam Simanjuntak,26/06/1992,33,Bengkulu,Buruh
+320055263288603000,Saadat Suartini,20/01/1975,50,Bogor,Wiraswasta
+320007526903666000,Nilam Tamrin,14/07/1976,48,Merauke,Buruh
+320005834153295000,Kartika Utama,10/12/1955,69,Padang,Buruh
+320020524369779000,Kjayeng Ramawati,22/08/1973,51,Sorong,Petani
+320023757541922000,Bambang Pratama,13/09/1997,27,Pekanbaru,Petani
+320012178302779000,Ina Prakasa,18/05/1981,44,Depok,Wiraswasta
+320014201781673000,Kania Agustina,13/03/1957,68,Depok,Buruh
+320095076107476000,Bagas Sudiati,22/12/1974,50,Lampung,Karyawan
+320026996547400000,Alika Nurdiyanti,17/04/1986,39,Bogor,Wiraswasta
+320050279632018000,Saiful Zulkarnain,08/10/1986,38,Pontianak,Petani
+320025520814230000,Eru Nurdiyanti,16/05/1956,69,Manokwari,Karyawan
+320061641922481000,Emong Yolanda,25/06/1956,69,Lampung,Buruh
+320083674157812000,Asmadi Idayat,04/03/1970,55,Manokwari,Tidak Bekerja
+320025053848712000,Titi Saefulla,20/04/2025,0,Semarang,Karyawan
+320049615997543000,Ana Wijaya,14/06/1979,46,Gorontalo,Karyawan
+320055493809217000,Aisya Widiastuti,08/08/1967,57,Malang,Tidak Bekerja
+320065660405344000,Rwani Dabukke.,05/10/1995,29,Balikpapan,Petani
+320025395899437000,Warta Sirait,05/05/1997,28,Banjarmasin,Karyawan
+320054432077941000,Nadine Agustina,07/07/1995,29,Semarang,Wiraswasta
+320099790408632000,Ani Aryanti,17/07/1965,59,Palembang,Tidak Bekerja
+320006745305159000,Timbul Lailasari,16/09/1998,26,Pontianak,Tidak Bekerja
+320087789454308000,Tgkbalapati Zulaika,12/01/1994,31,Palu,Tidak Bekerja
+320001941615529000,Fitria Suwarno,18/07/1994,30,Bandung,Buruh
+320022099756722000,Kamila Prasetya,10/11/1975,49,Depok,Petani
+320086794541978000,Rangga Saefulla,19/10/1990,34,Pontianak,Buruh
+320029523417350000,Rlatika Widiastuti,28/04/1957,68,Semarang,Buruh
+320090131222138000,Sabri Ramawati,15/02/1993,32,Manokwari,Buruh
+320045178801629000,Tgkwisnu Pudjiastuti.,24/04/1978,47,Gorontalo,Wiraswasta
+320054244519285000,Lanang Kusumo,23/05/1961,64,Balikpapan,Petani
+320028864619255000,Zamira Rajata,06/12/1965,59,Banjarmasin,Tidak Bekerja
+320058935744799000,Vino Pangestu,01/03/1991,34,Pekanbaru,Tidak Bekerja
+320026658648285000,Martani Farida,27/03/1962,63,Bengkulu,Tidak Bekerja
+320044153485704000,Rudi Laksita,23/04/1989,36,Makassar,Wiraswasta
+320041407404848000,Vicky Simanjuntak,06/05/1961,64,Sorong,Buruh
+320019868494507000,Mala Zulaika,02/05/1965,60,Malang,Petani
+320075479734574000,Oliva Anggriawan,09/08/1960,64,Depok,Wiraswasta
+320078930615272000,Bagiya Novitasari,30/07/1975,49,Pontianak,Tidak Bekerja
+320042576891809000,Julia Manullang,28/06/1975,50,Medan,Tidak Bekerja
+320039233492183000,Samia Sinaga.,19/12/1991,33,Bekasi,Tidak Bekerja
+320073103025530000,Banara Kurniawan,14/04/1993,32,Bengkulu,Buruh
+320091242876782000,Gilda Prastuti,14/12/1987,37,Balikpapan,Buruh
+320033176011845000,Nadia Alima,13/10/1963,61,Padang,Wiraswasta
+320079064791514000,Legawa Nasyida,12/10/1983,41,Kendari,Karyawan
+320098307948501000,Aditya Mustofa,19/12/1974,50,Depok,Karyawan
+320083365575031000,Ikin Saptono,21/07/2025,-1,Pekanbaru,Karyawan
+320045584128988000,Gading Fujiati,18/05/1994,31,Jambi,Buruh
+320076104779405000,Ayu Prasetyo,22/09/1965,59,Malang,Tidak Bekerja
+320014706389760000,Zara Akim,12/02/1964,61,Samarinda,Karyawan
+320060859991178000,Laras Akim,06/06/1998,27,Padang,Tidak Bekerja
+320032382067648000,Arsanto Situmorang,03/11/1994,30,Sorong,Petani
+320016870517187000,Puti Elisa Narpati,22/04/1995,30,Samarinda,Petani
+320044896163013000,Sakura Yuliarti,13/04/1970,55,Bengkulu,Tidak Bekerja
+320033512659439000,Galu Agustina,24/03/1961,64,Manado,Karyawan
+320010455561674000,Zulfa Assana,08/10/1994,30,Medan,Wiraswasta
+320018215799380000,Paiman Wibisono,08/02/1968,57,Manado,Wiraswasta
+320006677789361000,Wira Prakasa,09/10/1991,33,Merauke,Buruh
+320054087834713000,Ratna Farida,13/04/1987,38,Gorontalo,Karyawan
+320074509610763000,Cakrawala Winarno,04/05/1959,66,Pontianak,Buruh
+320004561269204000,Wisnu Samosir,12/02/1965,60,Semarang,Karyawan
+320083583792952000,Lalita Irawan,25/07/1967,57,Samarinda,Buruh
+320013415911875000,Olivia Marbun,06/12/1990,34,Medan,Tidak Bekerja
+320079338007984000,Lamar Dongoran,30/11/1958,66,Bogor,Petani
+320033618857197000,Amelia Andriani,13/09/1964,60,Palangka Raya,Wiraswasta
+320051056018390000,Mulya Agustina,16/03/1978,47,Merauke,Buruh
+320094937434646000,Puti Sadina Budiyanto,23/05/1976,49,Padang,Buruh
+320044176569017000,Tina Firmansya,18/06/1957,68,Semarang,Petani
+320000313001879000,Cut Amalia Pangestu,12/04/2000,25,Sorong,Wiraswasta
+320035077947601000,Cut Kamila Sitorus,25/03/1965,60,Manokwari,Buruh
+320044291975929000,Padmi Purnawati,10/11/1963,61,Semarang,Tidak Bekerja
+320024104672139000,Puti Ella Pratiwi,30/05/1960,65,Palangka Raya,Karyawan
+320059482067099000,Yance Zulaika,05/06/1984,41,Jayapura,Tidak Bekerja
+320038150946212000,Elu Lestari,13/09/1978,46,Yogyakarta,Karyawan
+320075658086064000,Tgkprasetya Prabowo,11/04/1992,33,Banjarmasin,Buruh
+320018517018389000,Kardi Prasasta,07/01/1976,49,Padang,Wiraswasta
+320006520662995000,Jasmani Sitompul,17/11/1974,50,Gorontalo,Tidak Bekerja
+320007577408220000,Marwata Waluyo,16/12/1969,55,Manokwari,Petani
+320016713539865000,Sadina Siregar,17/09/1959,65,Bogor,Petani
+320000066644558000,Wakiman Utagalung,16/03/1968,57,Samarinda,Karyawan
+320053230120765000,Artawan Tarioran,19/04/1968,57,Pekanbaru,Petani
+320000309718969000,Azalea Yolanda,22/03/1961,64,Gorontalo,Buruh
+320068568277692000,Esti Simbolon,19/12/1983,41,Bekasi,Karyawan
+320028548735068000,Setya Idayanto,04/04/1991,34,Malang,Petani
+320003054416112000,Titi Kurniawan,02/02/1967,58,Semarang,Karyawan
+320028478046773000,Maya Budiyanto,29/04/1983,42,Palembang,Petani
+320076673045935000,Jane Jailani,25/07/1962,62,Bekasi,Karyawan
+320089510112061000,Endra Mansur,05/05/1964,61,Balikpapan,Tidak Bekerja
+320057799679323000,Mana Siregar,04/05/1972,53,Palangka Raya,Wiraswasta
+320075676990496000,Rcaraka Tamrin,11/09/1999,25,Surabaya,Karyawan
+320050289522648000,Purwanto Waskita,10/10/1998,26,Surabaya,Tidak Bekerja
+320067539770761000,Agus Siregar,27/07/1974,50,Kendari,Wiraswasta
+320009448235027000,Almira Artati,09/09/1966,58,Yogyakarta,Petani
+320065742551108000,Nilam Suartini,13/08/1965,59,Makassar,Petani
+320062138243589000,Marsudi Kuswandari,19/01/1989,36,Bekasi,Tidak Bekerja
+320073335881469000,Luwar Gunarto,15/10/1987,37,Pontianak,Petani
+320032709212338000,Maria Nasyida,14/02/2000,25,Yogyakarta,Petani
+320059532754062000,Gasti Prakasa,18/03/1984,41,Manokwari,Tidak Bekerja
+320006505378419000,Krosman Wijaya,23/08/1987,37,Manado,Karyawan
+320092754345201000,Okto Uyaina,20/04/1988,37,Pontianak,Wiraswasta
+320048230247746000,Jabal Manullang,29/03/1971,54,Semarang,Petani
+320045261647542000,Talia Maulana,14/01/1957,68,Bekasi,Karyawan
+320037455675347000,Bagas Usada,28/04/1966,59,Pontianak,Tidak Bekerja
+320021566606827000,Eka Prakasa,28/12/1981,43,Makassar,Wiraswasta
+320015875062466000,Garda Prasetyo,25/02/1978,47,Palangka Raya,Tidak Bekerja
+320030827642432000,Qori Sirait,27/04/1977,48,Banjarmasin,Petani
+320010151752212000,Tirta Prasetyo,25/08/1977,47,Semarang,Karyawan
+320086186606389000,Wawan Budiman,19/03/1986,39,Kendari,Karyawan
+320036183360206000,Ajiono Namaga,06/11/1997,27,Padang,Petani
+320054576645562000,Aisya Marpaung,03/11/1974,50,Merauke,Buruh
+320038883022616000,Zelda Nuraini,05/07/2025,0,Bekasi,Petani
+320094515279408000,Damu Ramawati,26/03/1957,68,Bogor,Buruh
+320044863685758000,Azalea Winarno,07/12/1957,67,Semarang,Petani
+320017436349933000,Puji Namaga,17/04/1995,30,Pekanbaru,Wiraswasta
+320017417376093000,Purwa Waskita,09/10/1987,37,Balikpapan,Buruh
+320046132065600000,Titi Mardiya,14/08/1974,50,Palangka Raya,Petani
+320008051919634000,Jarwadi Usama,08/10/1971,53,Bandung,Petani
+320009109413572000,Ica Iswayudi,19/02/1970,55,Medan,Buruh
+320048296222397000,Victoria Winarsi,21/08/1985,39,Palembang,Wiraswasta
+320070766201849000,Jaiman Kuswandari,13/02/1966,59,Jambi,Petani
+320053396840760000,Tania Puspita,30/03/1973,52,Merauke,Tidak Bekerja
+320047231730906000,Wisnu Firmansya,13/10/1984,40,Lampung,Karyawan
+320002368027411000,Kcemani Nasiruddin,26/06/2025,0,Sorong,Petani
+320096456634396000,Zalindra Kuswoyo,29/11/1982,42,Yogyakarta,Karyawan
+320054487131715000,Airyanto Siregar,01/01/1977,48,Semarang,Karyawan
+320054694985599000,Dimaz Narpati,01/04/1999,26,Bengkulu,Petani
+320044883152054000,Najwa Saefulla,02/03/1955,70,Malang,Petani
+320009148957972000,Alika Marpaung,04/11/1958,66,Samarinda,Wiraswasta
+320047012816300000,Jarwa Aryanto,08/02/1963,62,Bekasi,Karyawan
+320027772750503000,Rkariman Alima,02/07/1993,32,Kendari,Tidak Bekerja
+320028498718726000,Treksa Wulandari,13/07/1973,51,Semarang,Tidak Bekerja
+320018657141715000,Umi Suryono,01/05/1972,53,Pontianak,Petani
+320091761565619000,Talia Tamba,08/11/1966,58,Jayapura,Karyawan
+320096271408769000,Enteng Saragi,16/12/1986,38,Manado,Buruh
+320088084236969000,Janet Lailasari,14/07/1978,46,Pekanbaru,Wiraswasta
+320008285141317000,Sutan Bakiono Dongoran,23/01/1959,66,Makassar,Karyawan
+320049314425651000,Tantri Saefulla,10/11/1987,37,Pontianak,Karyawan
+320088830918559000,Setya Kuswandari,02/04/1995,30,Lampung,Karyawan
+320082661386687000,Karma Padmasari,18/05/1960,65,Medan,Wiraswasta
+320028249102693000,Lukita Situmorang,30/03/1995,30,Palangka Raya,Petani
+320049641042920000,Edi Wacana,04/06/1979,46,Medan,Tidak Bekerja
+320029698651979000,Silvia Megantara,05/08/1978,46,Palembang,Petani
+320017560417824000,Maimuna Wulandari,30/08/1995,29,Padang,Tidak Bekerja
+320083144204525000,Banawi Maulana,12/06/1978,47,Manokwari,Buruh
+320096969810659000,Cager Winarno,09/06/1987,38,Depok,Wiraswasta
+320047646990364000,Opung Andriani,03/01/1993,32,Semarang,Petani
+320022935900185000,Gaiman Oktaviani,15/11/1991,33,Lampung,Karyawan
+320040168378508000,Unjani Gunawan,10/12/2025,-1,Gorontalo,Buruh
+320003403059940000,Kempluk Siombing,11/09/1959,65,Bengkulu,Karyawan
+320048219429500000,Martana Dabukke,26/09/1977,47,Merauke,Buruh
+320059631632949000,Daru Nasiruddin,12/03/1963,62,Bengkulu,Buruh
+320007663691144000,Wira Nugroo,24/01/1980,45,Semarang,Karyawan
+320068263778211000,Gabriella Astuti,17/03/1977,48,Yogyakarta,Tidak Bekerja
+320019652706863000,Gali Megantara,27/12/1980,44,Merauke,Buruh
+320009630333109000,Janet Zulkarnain,30/12/1980,44,Bengkulu,Petani
+320055470570524000,Jarwi Wastuti,24/06/1959,66,Bekasi,Wiraswasta
+320018936026238000,Genta Aryani,06/07/1990,34,Palangka Raya,Wiraswasta
+320092465372946000,Puti Tina Puspita,19/04/1964,61,Pekanbaru,Karyawan
+320000790708680000,Restu Nuraini,27/07/1996,28,Palangka raya,Karyawan
+320055510272176000,Cayadi Winarsi,09/03/1969,56,Balikpapan,Karyawan
+320057008174562000,Lukman Permata,03/09/2000,24,Merauke,Petani
+320089927206257000,Zulfa Firmansya,07/06/1980,45,Malang,Wiraswasta
+320087186914157000,Lidya Maryadi,06/07/1970,54,Sorong,Buruh
+320093109886507000,Dariati Maendra,06/12/1987,37,Samarinda,Karyawan
+320022109544371000,Ilda Waluyo,19/05/1984,41,Lampung,Wiraswasta
+320022570008952000,Silvia Nainggolan,11/02/1989,36,Semarang,Tidak Bekerja
+320019612533701000,Jelita Utapea,21/01/1999,26,Pekanbaru,Petani
+320084667446156000,Belinda Wibisono.,10/10/1971,53,Gorontalo,Karyawan
+320072219656443000,Bagus Wibisono,18/03/1970,55,Palu,Tidak Bekerja
+320042630910821000,Galar Usada,01/06/1971,54,Jambi,Petani
+320088078821801000,Kemal Tarioran,15/08/1989,35,Palembang,Petani
+320031997382554000,Micelle Utapea,09/12/1974,50,Samarinda,Karyawan
+320051018757635000,Bala Firmansya,09/08/1963,61,Malang,Petani
+320011698665840000,Kacung Irawan,22/02/1990,35,Jambi,Karyawan
+320032946330301000,Usyi Assana,19/06/1998,27,Makassar,Petani
+320002838853192000,Yuliana Nainggolan,17/11/1984,40,Palu,Tidak Bekerja
+320061284928640000,Maimuna Sitompul,17/04/1979,46,Pekanbaru,Buruh
+320007070511720000,Balijan Samosir,16/09/1970,54,Pontianak,Karyawan
+320059065008851000,Aisya Irawan,23/07/1983,41,Depok,Wiraswasta
+320002424763447000,Anom Uwais,05/12/1991,33,Makassar,Karyawan
+320008871869986000,Jane Ardianto,21/03/1990,35,Padang,Karyawan
+320047297062551000,Galar Mansur,21/02/1979,46,Pekanbaru,Buruh
+320017347291868000,Puput Rajasa,28/04/1998,27,Malang,Wiraswasta
+320003220422950000,Ana Laksmiwati,05/06/1970,55,Pontianak,Petani
+320048327700913000,Garda Simbolon,02/04/1981,44,Palu,Buruh
+320058763755143000,Zulaika Aryanto.,03/06/1973,52,Bogor,Petani
+320053944378245000,Luwar Yolanda.,16/06/1991,34,Lampung,Karyawan
+320079280517861000,Puti Gasti Sitorus,29/04/1982,43,Merauke,Karyawan
+320000670491787000,Baktiono Tamrin,12/09/1969,55,Jayapura,Karyawan
+320023710455523000,Kambali Mayasari,11/08/1970,54,Bekasi,Karyawan
+320077391836804000,Danu Winarno,13/07/1979,45,Bekasi,Petani
+320091920248456000,Tina Siombing,17/11/1981,43,Manado,Tidak Bekerja
+320085345134890000,Asirwada Kuswoyo,16/10/1975,49,Padang,Tidak Bekerja
+320082651220602000,Racel Setiawan,23/01/1975,50,Banjarmasin,Petani
+320056190713256000,Nurul Wibowo,15/08/1965,59,Semarang,Tidak Bekerja
+320028951312724000,Nadine Idayanto,22/01/1988,37,Manado,Tidak Bekerja
+320042621147706000,Tami Marpaung,29/11/1991,33,Malang,Buruh
+320042779691793000,Betania Widiastuti,13/01/1992,33,Banjarmasin,Wiraswasta
+320027861028094000,Sutan Danuja Nasiruddin,27/04/1976,49,Medan,Tidak Bekerja
+320011926910473000,Empluk Gunarto,02/07/1990,35,Palu,Tidak Bekerja
+320048915285009000,Tasdik Narpati,23/02/1979,46,Kendari,Wiraswasta
+320041933089271000,Vino Sitorus,09/01/1987,38,Malang,Karyawan
+320001703724612000,Jabal Marbun,22/06/1997,28,Manokwari,Petani
+320053280403539000,Jelita Mandasari,15/06/1974,51,Malang,Karyawan
+320025438098722000,Rati Tamrin,27/11/1955,69,Balikpapan,Buruh
+320015214708127000,Siska Winarsi,16/11/1982,42,Jayapura,Wiraswasta
+320054977459400000,Nova Kusumo.,24/07/1981,43,Balikpapan,Petani
+320067047272052000,Kajen Widodo,03/09/1974,50,Medan,Karyawan
+320017454193329000,Teddy Firgantoro,26/02/1983,42,Jambi,Tidak Bekerja
+320070358013272000,Galar Puspasari,16/12/1997,27,Bengkulu,Wiraswasta
+320036131171910000,Rmila Budiman,17/02/1977,48,Bandung,Wiraswasta
+320038104559598000,Intan Simanjuntak,29/11/1995,29,Padang,Karyawan
+320097102985501000,Agnes Yuniar,18/07/1984,40,Pontianak,Tidak Bekerja
+320063098633819000,Vera Marpaung,02/03/1987,38,Bogor,Wiraswasta
+320026082571625000,Zalindra Laksmiwati,25/03/1970,55,Samarinda,Buruh
+320073976245891000,Janet Salaudin,22/07/1956,68,Lampung,Wiraswasta
+320069482551820000,Limar Sinaga,16/01/1963,62,Jambi,Karyawan
+320037950626292000,Irfan Sudiati,19/09/1978,46,Palembang,Wiraswasta
+320047865644556000,Bakiman Idayat,10/08/1988,36,Pekanbaru,Petani
+320089746017145000,Nilam Ardiansya,07/08/1980,44,Malang,Buruh
+320015005478644000,Lalita Firmansya,27/06/1974,51,Manokwari,Buruh
+320005204195151000,Marwata Narpati,20/06/1955,70,Pekanbaru,Karyawan
+320032212447260000,Taufan Wacana,10/10/1972,52,Malang,Petani
+320033618992366000,Tina Melani,18/12/1984,40,Surabaya,Petani
+320026061451687000,Zizi Anggraini,08/08/1998,26,Banjarmasin,Buruh
+320018674081859000,Jono Nasyia,13/01/1965,60,Gorontalo,Buruh
+320018015085831000,Gani Kusumo,25/06/1986,39,Bogor,Karyawan
+320085198176006000,Dia Natsir,19/12/1975,49,Gorontalo,Tidak Bekerja
+320046961586697000,Klukman Siotang,19/04/1963,62,Jambi,Wiraswasta
+320076697842774000,Ida Firgantoro,26/01/1978,47,Palu,Karyawan
+320085557367285000,Jasmin Gunawan,14/06/1992,33,Surabaya,Karyawan
+320001590280479000,Jarwi Permadi,04/01/1961,64,Surabaya,Petani
+320056445144421000,Elvina Nurdiyanti,01/07/1964,61,Medan,Petani
+320052065074672000,Gabriella Marpaung,28/04/1955,70,Balikpapan,Buruh
+320007491610661000,Tgkirsad Mansur,30/05/1956,69,Palembang,Tidak Bekerja
+320047399860691000,Puput Nasiruddin,04/08/1961,63,Bogor,Buruh
+320073772097214000,Karima Tamrin,12/05/1986,39,Kendari,Buruh
+320065018859733000,Padmi Santoso,05/06/1992,33,Bogor,Tidak Bekerja
+320026019567702000,Fara Ardiansya,07/08/1963,61,Pontianak,Buruh
+320068276368964000,Lalita Wayudin,08/04/1987,38,Jambi,Karyawan
+320010747793356000,Karima Budiman,07/07/1972,52,Balikpapan,Wiraswasta
+320071384585105000,Luung Andriani,06/06/1984,41,Banjarmasin,Wiraswasta
+320098789827837000,Yoga Kusumo,13/08/1957,67,Pekanbaru,Tidak Bekerja
+320057532489833000,Paris Artati,09/10/1963,61,Kendari,Wiraswasta
+320058269193425000,Kamila Sudiati,08/08/1977,47,Manokwari,Buruh
+320047016799814000,Janet Safitri,19/02/1995,30,Gorontalo,Karyawan
+320077303751288000,Tgkpurwanto Siombing,17/12/1974,50,Semarang,Petani
+320041790272481000,Capa Abibi,13/09/1985,39,Gorontalo,Wiraswasta
+320026292311532000,Sara Maulana,16/02/1986,39,Palu,Buruh
+320089512914542000,Puti Mala Suwarno,22/01/1974,51,Jambi,Karyawan
+320006488436291000,Jamalia Mandasari,24/12/1984,40,Medan,Petani
+320098227040594000,Ari Raayu,25/03/1989,36,Jambi,Wiraswasta
+320052052720780000,Nilam Pradipta,12/11/1959,65,Bogor,Tidak Bekerja
+320086312170141000,Aswani Prastuti,17/04/1979,46,Palangka Raya,Tidak Bekerja
+320067022293209000,Aslijan Waluyo.,10/06/1968,57,Manokwari,Karyawan
+320047821617434000,Elma Nainggolan,03/02/1967,58,Semarang,Karyawan
+320025703355735000,Bajragin Tamba,05/05/1967,58,Yogyakarta,Petani
+320039489174458000,Jamil Rajata,13/06/1963,62,Manado,Petani
+320074143139011000,Putri Wastuti,29/06/1979,46,Gorontalo,Petani
+320073987068397000,Tgkpia Kuswoyo,11/09/1991,33,Bogor,Buruh
+320003815077097000,Yoga Maeswara,07/03/1960,65,Lampung,Tidak Bekerja
+320009712581131000,Cut Ica Irawan,10/12/1963,61,Yogyakarta,Tidak Bekerja
+320020292586470000,Talia Winarsi,25/06/1962,63,Yogyakarta,Petani
+320056915826046000,Cakrajiya Nasiruddin,05/10/1980,44,Malang,Petani
+320010723329491000,Rafi Januar,19/01/1993,32,Merauke,Petani
+320073972455378000,Jarwi Saputra,27/09/1978,46,Bogor,Buruh
+320073724872764000,Bakidin Nugroo,11/02/1999,26,Malang,Tidak Bekerja
+320021042945101000,Jaswadi Siregar,04/10/1977,47,Gorontalo,Petani
+320052317926102000,Jayadi Laksita,13/03/1996,29,Pontianak,Tidak Bekerja
+320089936119834000,Uli Yulianti,29/04/1966,59,Bengkulu,Buruh
+320034143186495000,Kalim Najmudin,23/03/1959,66,Jayapura,Wiraswasta
+320009899715395000,Tgkgina Anggriawan,23/05/1985,40,Gorontalo,Petani
+320041302623817000,Samia Raayu,14/04/1999,26,Bandung,Tidak Bekerja
+320006737971951000,Gadu Yuliarti,17/04/1986,39,Samarinda,Karyawan
+320005324322005000,Zamira Marbun,13/12/1966,58,Manokwari,Tidak Bekerja
+320016836317245000,Sutan Gamanto Suartini,11/06/1969,56,Jambi,Karyawan
+320036587593986000,Madinata Susanti,08/10/1996,28,Palembang,Wiraswasta
+320094413246557000,Cici Zulkarnain,20/08/1971,53,Balikpapan,Petani
+320097367174081000,Eko Siotang,14/09/1996,28,Semarang,Tidak Bekerja
+320047285414594000,Tami Tamba,11/02/1970,55,Kendari,Tidak Bekerja
+320079167997856000,Ciaobella Mardiya,14/03/1962,63,Palembang,Buruh
+320099451139783000,Vivi Siregar,08/11/1971,53,Palu,Petani
+320064242256225000,Suci Mustofa,15/04/1964,61,Bogor,Buruh
+320017806209677000,Gasti Kusmawati,23/05/1972,53,Bandung,Karyawan
+320049154497313000,Kayun Situmorang,03/02/1962,63,Pekanbaru,Petani
+320080203365735000,Dinda Salaudin,18/02/1993,32,Jayapura,Petani
+320049501660732000,Karja Kuswoyo,07/04/1976,49,Pekanbaru,Buruh
+320085051640622000,Tami Wibowo,05/07/1969,56,Palembang,Karyawan
+320075771278198000,Rusman Putra,02/09/1991,33,Bandung,Karyawan
+320075137391278000,Janet Uwais,30/05/1999,26,Bandung,Karyawan
+320061313751321000,Kasirwanda Lestari,09/07/1970,54,Yogyakarta,Buruh
+320049314732416000,Cakrawala Waskita,15/06/1984,41,Samarinda,Buruh
+320069808312731000,Janet Aryanto,15/09/1993,31,Jayapura,Petani
+320034505129760000,Tari Puspita,11/01/1994,31,Banjarmasin,Wiraswasta
+320011903689477000,Nilam Damanik,18/08/1968,56,Manado,Buruh
+320038151996945000,Ade Wacana,10/02/1974,51,Medan,Petani
+320097385095785000,Ellis Manullang,17/09/1980,44,Sorong,Wiraswasta
+320000742144477000,Safina Salaudin,27/03/1982,43,Pekanbaru,Wiraswasta
+320023492662587000,Tami Suryono,12/11/1955,69,Malang,Wiraswasta
+320050792397084000,Ardi Agustina,18/03/1987,38,Kendari,Karyawan
+320081073029039000,Julia Lailasari,30/05/1962,63,Lampung,Tidak Bekerja
+320040079097432000,Keisa Sinaga,04/01/1993,32,Medan,Wiraswasta
+320029643684560000,Lanjar Andayani,27/03/1972,53,Balikpapan,Tidak Bekerja
+320071485914213000,Puti Puspa Nasiruddin,03/04/1996,29,Samarinda,Karyawan
+320025662061025000,Damar Marbun,25/04/1995,30,Yogyakarta,Petani
+320010449019578000,Sutan Viktor Simanjuntak,09/07/1957,67,Yogyakarta,Tidak Bekerja
+320029548426078000,Tgkcinta Anggriawan,05/04/1957,68,Pontianak,Petani
+320028422513659000,Fara Siombing,08/08/1956,68,Pekanbaru,Karyawan
+320008981648392000,Ratna Widodo,30/06/1964,61,Kendari,Tidak Bekerja
+320084288356733000,Mujur Astuti,24/06/2000,25,Balikpapan,Wiraswasta
+320026737271174000,Melinda Siombing,17/12/1975,49,Bengkulu,Wiraswasta
+320092745330928000,Qori Gunarto,13/02/1994,31,Jayapura,Tidak Bekerja
+320084054616430000,Paiman Anggriawan,08/11/1999,25,Lampung,Petani
+320034903101227000,Eka Sitorus,12/07/1973,51,Padang,Wiraswasta
+320071061269023000,Yusuf Simanjuntak,11/09/1973,51,Jayapura,Tidak Bekerja
+320029437733187000,Rrini Mayasari,17/12/1962,62,Makassar,Petani
+320059055169685000,Kasim Widodo,23/07/1967,57,Manado,Karyawan
+320093795398310000,Cut Gina Putra,16/04/1968,57,Manokwari,Karyawan
+320080929455756000,Sabrina Adriansya,30/09/1991,33,Pekanbaru,Tidak Bekerja
+320092777206498000,Kprayoga Tampubolon,11/02/1957,68,Jayapura,Tidak Bekerja
+320016736632150000,Irfan Waskita,04/05/2000,25,Bogor,Karyawan
+320038281231656000,Darmana Pangestu,01/10/1997,27,Pekanbaru,Wiraswasta
+320006563833983000,Silvia Nurdiyanti,21/03/1956,69,Yogyakarta,Karyawan
+320090594089543000,Puspa Siotang,12/04/1963,62,Palembang,Karyawan
+320009142614080000,Ulya Winarno,23/11/1982,42,Bandung,Wiraswasta
+320068801430657000,Mariadi Oktaviani,02/09/1973,51,Samarinda,Wiraswasta
+320040617920222000,Arsanto Artati,06/01/1973,52,Manado,Wiraswasta
+320072651023115000,Umar Megantara,05/10/1996,28,Bandung,Karyawan
+320092009858704000,Alika Susanti,12/04/1988,37,Lampung,Karyawan
+320098937701799000,Balidin Yolanda,06/04/1978,47,Banjarmasin,Tidak Bekerja
+320026307319345000,Ayu Abibi,10/02/1960,65,Gorontalo,Wiraswasta
+320068607340050000,Ida Usama,22/07/1955,69,Medan,Wiraswasta
+320066817399783000,Puti Rati Ardianto,05/12/1968,56,Kendari,Buruh
+320094183589450000,Dadap Fujiati,29/09/1999,25,Medan,Buruh
+320051527504732000,Yance Aryanti,11/08/1958,66,Manokwari,Karyawan
+320024529036247000,Eman Irawan,15/02/1960,65,Pontianak,Petani
+320044198140495000,Najib Saragi,22/01/1992,33,Padang,Buruh
+320088057220428000,Laswi Wasita,18/01/1957,68,Palangka Raya,Karyawan
+320025256290361000,Karya Damanik,29/01/1975,50,Malang,Tidak Bekerja
+320016605991285000,Lala Maryati,16/11/1955,69,Pekanbaru,Buruh
+320030355829814000,Almira Usada,01/10/1967,57,Samarinda,Tidak Bekerja
+320099866018964000,Kamidin Santoso,22/04/1955,70,Jayapura,Tidak Bekerja
+320027393762364000,Diana Fujiati,07/05/1960,65,Surabaya,Karyawan
+320023334057645000,Alim Wastuti,10/09/1995,29,Jayapura,Buruh
+320022088612800000,Jagaraga Akim,09/04/1987,38,Banjarmasin,Tidak Bekerja
+320082647212918000,Raayu Sudiati,06/12/1988,36,Palu,Tidak Bekerja
+320079149785068000,Joko Utasoit.,16/11/1955,69,Sorong,Karyawan
+320048378329216000,Sutan Mursinin Nasiruddin,13/12/1956,68,Makassar,Buruh
+320065489093315000,Cayono Widiastuti,16/08/1973,51,Semarang,Wiraswasta
+320027774846301000,Salima Abibi,14/02/1976,49,Balikpapan,Buruh
+320098931434765000,Karta Laksmiwati,18/01/1985,40,Makassar,Wiraswasta
+320077349993907000,Eka Utama,16/01/1962,63,Jayapura,Buruh
+320012642532979000,Adika Prakasa,17/11/1997,27,Lampung,Petani
+320035867762587000,Vivi Usada,02/03/1967,58,Manado,Tidak Bekerja
+320098775891305000,Zizi Januar,02/03/1987,38,Balikpapan,Buruh
+320014766954672000,Sutan Jono Nasyia,01/04/1967,58,Bengkulu,Tidak Bekerja
+320096574258357000,Tomi Januar,21/06/1999,26,Pekanbaru,Petani
+320041861544454000,Edi Purwanti,03/05/1967,58,Makassar,Petani
+320092730757789000,Patricia Mangunsong,03/04/1964,61,Bogor,Karyawan
+320022079495686000,Galur Andriani,10/08/1987,37,Kendari,Buruh
+320006499168722000,Farunnisa Utasoit,09/09/1981,43,Padang,Buruh
+320039052198796000,Kani Ardianto,26/06/1992,33,Palangka Raya,Tidak Bekerja
+320014838604833000,Sutan Daliono Prakasa,08/11/1967,57,Padang,Petani
+320050147812030000,Nurul Palastri,12/05/1976,49,Depok,Tidak Bekerja
+320084488443524000,Sari Suryatmi,18/12/1987,37,Bengkulu,Petani
+320032511094960000,Paulin Budiman,11/09/1988,36,Malang,Petani
+320016771377441000,Ika Budiman,13/01/1967,58,Sorong,Karyawan
+320060256043779000,Tedi Mandasari,16/04/1987,38,Bekasi,Petani
+320099609870774000,Rangga Yulianti,25/08/1978,46,Yogyakarta,Petani
+320077134244031000,Paiman Uwais,18/04/1973,52,Palangka Raya,Karyawan
+320057447383702000,Laswi Lestari,28/02/1957,68,Padang,Tidak Bekerja
+320046254165743000,Wardaya Siotang.,13/02/1955,70,Surabaya,Karyawan
+320028479299214000,Tgkwani Mardiya,04/06/1955,70,Banjarmasin,Wiraswasta
+320004658191465000,Raisa Raayu,03/02/1963,62,Bengkulu,Petani
+320062128691967000,Kiandra Ardianto,28/04/1974,51,Jambi,Karyawan
+320076934933838000,Ardi Sitompul,03/03/1976,49,Makassar,Petani
+320097201033697000,Gabriella Ramawati,25/01/1999,26,Manado,Petani
+320004932012745000,Restu Adriansya,05/10/1963,61,Sorong,Buruh
+320042550679039000,Puji Nasiruddin,01/10/1991,33,Palembang,Tidak Bekerja
+320018041417160000,Sutan Jayadi Irawan,30/08/1967,57,Sorong,Wiraswasta
+320073981216661000,Cintia Lazuardi,04/05/1988,37,Samarinda,Karyawan
+320002521069825000,Rama Firgantoro,28/02/1987,38,Makassar,Wiraswasta
+320099349845941000,Paris Samosir,05/12/1995,29,Palu,Karyawan
+320081448287419000,Ani Pertiwi,15/03/1985,40,Manokwari,Tidak Bekerja
+320022064815138000,Agnes Zulkarnain,07/10/1955,69,Padang,Karyawan
+320044211441762000,Jessica Siombing,22/07/1974,50,Semarang,Karyawan
+320046207301634000,Safina Uyaina,07/09/1993,31,Semarang,Wiraswasta
+320040582576477000,Arjaya Mandala,18/02/2000,25,Semarang,Wiraswasta
+320078126744538000,Puti Melinda Oktaviani,20/07/1957,67,Semarang,Buruh
+320043560562937000,Dian Pranowo,13/10/1964,60,Depok,Petani
+320051713758124000,Karima Purnawati,02/03/1993,32,Manokwari,Wiraswasta
+320063851334287000,Maida Uwais,11/09/1996,28,Manado,Buruh
+320038062138407000,Kartika Mangunsong,24/05/1967,58,Gorontalo,Tidak Bekerja
+320004573918632000,Rusman Artati,28/12/1972,52,Surabaya,Buruh
+320095551505041000,Adiarja Ardiansya,30/12/1995,29,Malang,Buruh
+320087550107986000,Jamil Namaga,29/04/1975,50,Semarang,Tidak Bekerja
+320019965127675000,Rina Utama,27/01/1984,41,Malang,Buruh
+320020702177952000,Gina Jailani.,01/11/1960,64,Palembang,Buruh
+320074495296015000,Farunnisa Siotang,07/05/1956,69,Padang,Buruh
+320029773305353000,Jane Idayanto,01/07/1973,52,Bogor,Wiraswasta
+320055110988462000,Samia Pertiwi,12/07/1993,31,Samarinda,Buruh
+320001899484923000,Ani Alim,30/05/1988,37,Manado,Petani
+320028222304766000,Balijan Manullang,07/09/1985,39,Manado,Wiraswasta
+320010322269540000,Embu Aryanto,09/12/1963,61,Pekanbaru,Petani
+320094498846694000,Wirda Siregar,13/07/1959,65,Balikpapan,Karyawan
+320030818841329000,Sabrina Narpati,20/09/1971,53,Merauke,Buruh
+320072406155240000,Yono Utasoit,07/09/1981,43,Jambi,Petani
+320065240680643000,Ika Setiawan,27/01/1970,55,Gorontalo,Karyawan
+320021914189790000,Simon Wacana,09/02/1997,28,Lampung,Petani
+320023258433442000,Ira Winarno,22/11/1998,26,Depok,Wiraswasta
+320082030214467000,Mutia Laksita,25/05/1989,36,Jambi,Wiraswasta
+320015230706647000,Kcakrawala Fujiati,24/02/1995,30,Surabaya,Tidak Bekerja
+320033034227158000,Mitra Assana,02/07/1996,29,Pekanbaru,Tidak Bekerja
+320069357830436000,Asna Maryati,29/07/1959,65,Semarang,Petani
+320086955905586000,Azalea Kusumo,11/05/1986,39,Jayapura,Tidak Bekerja
+320096059172362000,Artawan Latupono,07/04/1991,34,Bogor,Buruh
+320019705412087000,Pangeran Lazuardi,02/12/1990,34,Makassar,Tidak Bekerja
+320070438952762000,Puti Suryono,14/10/1984,40,Malang,Buruh
+320009985394618000,Nrima Nurdiyanti,08/10/1992,32,Sorong,Wiraswasta
+320002982360009000,Vera Nurdiyanti,08/09/1981,43,Balikpapan,Tidak Bekerja
+320029032296800000,Mala Maendra,28/08/1957,67,Semarang,Buruh
+320004014810853000,Ika Fujiati,10/02/1977,48,Kendari,Wiraswasta
+320010227712157000,Cindy Susanti,23/12/1979,45,Merauke,Wiraswasta
+320076512928681000,Tania Rajasa,13/03/1993,32,Pekanbaru,Tidak Bekerja
+320084102773778000,Damar Maryati,21/12/1963,61,Manado,Tidak Bekerja
+320079723183096000,Ica Abibi,29/11/1976,48,Makassar,Wiraswasta
+320067932787971000,Sakura Yuniar,23/05/1988,37,Malang,Buruh
+320017454342102000,Maida Gunarto,06/06/1972,53,Jambi,Wiraswasta
+320005534813300000,Jayadi Nurdiyanti,18/01/1992,33,Semarang,Buruh
+320067140505099000,Eli Utama,26/06/1973,52,Bogor,Wiraswasta
+320089061922021000,Paris Sitompul,08/02/1968,57,Lampung,Petani
+320049604034741000,Ilsa Siombing,02/09/1981,43,Jayapura,Karyawan
+320050735767251000,Legawa Permadi,03/07/1967,58,Lampung,Wiraswasta
+320078328765266000,Mnrima Suartini,08/06/1965,60,Manokwari,Wiraswasta
+320087813667407000,Cut Novi Saptono,03/12/1978,46,Bengkulu,Tidak Bekerja
+320094550145753000,Lemba Siombing,17/04/2000,25,Makassar,Tidak Bekerja
+320009660142262000,Enda Aryanti,09/01/1964,61,Medan,Wiraswasta
+320062744180087000,Paulin Putra,15/01/1982,43,Sorong,Buruh
+320045984187504000,Amalia Laksmiwati,09/10/1993,31,Semarang,Petani
+320035866934815000,Purwadi Usada,17/03/2000,25,Padang,Wiraswasta
+320019547234012000,Unggul Utami,30/11/1991,33,Bengkulu,Wiraswasta
+320022505036585000,Arsanto Januar,12/11/1969,55,Pontianak,Petani
+320085230359257000,Marsito Mangunsong,20/04/1984,41,Manado,Petani
+320099409048745000,Safina Putra,21/12/1990,34,Palembang,Tidak Bekerja
+320077403889945000,Jasmin Pradipta,04/01/1968,57,Surabaya,Wiraswasta
+320077008216183000,Martani Dongoran,30/06/1996,29,Jambi,Petani
+320057290214152000,Unjani Mandala,20/11/1973,51,Medan,Tidak Bekerja
+320072541284092000,Tgkjuli Wijaya,15/11/1973,51,Bekasi,Wiraswasta
+320026266721062000,Pangestu Suryatmi,14/09/1977,47,Palangka Raya,Wiraswasta
+320057178375065000,Endra Wulandari.,21/06/1959,66,Yogyakarta,Karyawan
+320035649572331000,Sabrina Saragi,26/11/1970,54,Samarinda,Buruh
+320087389669157000,Banawa Astuti,21/03/1984,41,Sorong,Wiraswasta
+320083705513822000,Safina Astuti,20/02/1977,48,Balikpapan,Petani
+320049837061632000,Ajiman Nugroo,27/03/1981,44,Pontianak,Petani
+320065869937573000,Jarwa Pratiwi,04/03/1960,65,Kendari,Petani
+320017408156699000,Kanda Adriansya,02/03/1993,32,Jayapura,Karyawan
+320052370281350000,Gambira Farida,02/05/1982,43,Medan,Tidak Bekerja
+320052852148984000,Arsanto Laksita,15/05/1998,27,Padang,Wiraswasta
+320046600810610000,Gambira Palastri,27/05/1959,66,Merauke,Karyawan
+320027224136088000,Mariadi Wacana,14/08/1979,45,Palu,Karyawan
+320007738011195000,Latif Wacana,09/08/1972,52,Merauke,Wiraswasta
+320006039973669000,Jagapati Wibowo,08/07/1984,40,Pontianak,Wiraswasta
+320070870354251000,Rella Nainggolan,14/10/1996,28,Manokwari,Tidak Bekerja
+320015352384530000,Dian Mardiya,09/09/1971,53,Manokwari,Tidak Bekerja
+320042124803182000,Darmana Ariya,21/12/1956,68,Manado,Petani
+320079848360827000,Latif Siotang,15/11/1989,35,Bandung,Buruh
+320008966202404000,Irwan Maendra,21/01/1986,39,Palembang,Buruh
+320027910856249000,Cintia Prayoga,27/08/1970,54,Bengkulu,Karyawan
+320010583527179000,Pandu Purnawati,12/01/1958,67,Padang,Tidak Bekerja
+320007492232554000,Rati Zulkarnain,26/03/1991,34,Pekanbaru,Petani
+320054422436190000,Tgkbakiono Prasetya,25/06/1989,36,Lampung,Buruh
+320010370991564000,Puti Ika Ariya,21/03/1988,37,Bandung,Wiraswasta
+320010133994098000,Ari Idayanto,10/12/1973,51,Palembang,Petani
+320020909455178000,Cut Jessica Raayu,19/05/1976,49,Palembang,Wiraswasta
+320033670142312000,Irnanto Andayani,13/04/1966,59,Pontianak,Petani
+320081799533775000,Nalar Nuraini,03/08/1999,25,Banjarmasin,Wiraswasta
+320043521058218000,Jasmin Budiyanto,15/04/1982,43,Sorong,Tidak Bekerja
+320072065235688000,Fitria Abibi,25/06/1993,32,Bengkulu,Tidak Bekerja
+320078455366713000,Cindy Putra,15/01/2000,25,Manokwari,Buruh
+320014410422014000,Aurora Budiman,08/12/1976,48,Samarinda,Karyawan
+320038680639337000,Vivi Assana,15/01/1978,47,Jayapura,Tidak Bekerja
+320063973054937000,Amima Firmansya,27/10/1983,41,Banjarmasin,Tidak Bekerja
+320055535750033000,Ellis Yulianti,18/06/1975,50,Manado,Petani
+320030873889130000,Jagaraga Ramawati,30/03/2025,0,Medan,Wiraswasta
+320081869275888000,Umay Akim,27/01/2025,0,Sorong,Buruh
+320070114227297000,Umay Wastuti,20/06/2025,0,Pekanbaru,Petani
+320011678823410000,Ella Simbolon,14/12/2025,-1,Pontianak,Tidak Bekerja
+320081072742902000,Sari Astuti,26/08/2025,-1,Kendari,Karyawan
